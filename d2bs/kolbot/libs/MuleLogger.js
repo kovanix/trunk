@@ -18,6 +18,7 @@ var MuleLogger = {
 			Individual entries are separated with a comma.
 		*/
 
+<<<<<<< HEAD
 		"account/password/realm": ["all"]
 	},
 
@@ -28,6 +29,26 @@ var MuleLogger = {
 	LogMerc: false, // include items merc has equipped (if alive)
 	SaveScreenShot: false, // Save pictures in jpg format (saved in 'Images' folder)
 	IngameTime: 20, // Time to wait after leaving game
+=======
+		"kovanix/frederic/europe": ["all"],
+		"frederic/kovanix/europe": ["all"],
+		"kovax-fred/frederic/europe": ["all"],
+		"fred-kovax/frederic/europe": ["all"],
+		"mule-kovax/frederic/europe": ["all"],
+		"kovanix-d2jsp-b/frederic/europe": ["all"],
+		"kovanix-d2jsp-m/frederic/europe": ["all"],
+		"kovanix-d2jsp-z/frederic/europe": ["all"],
+		"kovanix-d2jsp-a/frederic/europe": ["all"]
+	},
+
+	LogGame: ["kovix", "abc"], // ["gamename", "password"]
+	LogNames: true, // Put account/character name on the picture
+	LogItemLevel: true, // Add item level to the picture
+	LogEquipped: true, // include equipped items
+	LogMerc: true, // include items merc has equipped (if alive)
+	SaveScreenShot: false, // Save pictures in jpg format (saved in 'Images' folder)
+	IngameTime: 210, // Time to wait after leaving game
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 
 	// don't edit
 	getItemDesc: function (unit, logIlvl) {

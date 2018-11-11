@@ -4,6 +4,10 @@
 3	Unsummon
 4	Left Hand Throw
 5	Left Hand Swing
+<<<<<<< HEAD
+=======
+//Ama//
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 6	Magic Arrow
 7	Fire Arrow
 8	Inner Sight
@@ -34,6 +38,10 @@
 33	Pierce
 34	Lightning Strike
 35	Lightning Fury
+<<<<<<< HEAD
+=======
+//soso//
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 36	Fire Bolt
 37	Warmth
 38	Charged Bolt
@@ -64,6 +72,10 @@
 63	Lightning Mastery
 64	Frozen Orb
 65	Cold Mastery
+<<<<<<< HEAD
+=======
+//necro//
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 66	Amplify Damage
 67	Teeth
 68	Bone Armor
@@ -94,6 +106,10 @@
 93	Bone Spirit
 94	FireGolem
 95	Revive
+<<<<<<< HEAD
+=======
+//pala//
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 96	Sacrifice
 97	Smite
 98	Might
@@ -124,6 +140,10 @@
 123	Conviction
 124	Redemption
 125	Salvation
+<<<<<<< HEAD
+=======
+//baba//
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 126	Bash
 127	Sword Mastery
 128	Axe Mastery
@@ -154,6 +174,10 @@
 153	Natural Resistance
 154	War Cry
 155	Battle Command
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 156	Fire Hit
 157	UnHolyBolt
 158	SkeletonRaise
@@ -219,6 +243,10 @@
 218	Book of Identify
 219	Scroll of Townportal
 220	Book of Townportal
+<<<<<<< HEAD
+=======
+//druide//
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 221	Raven
 222	Plague Poppy
 223	Wearwolf
@@ -249,6 +277,10 @@
 248	Fury
 249	Armageddon
 250	Hurricane
+<<<<<<< HEAD
+=======
+//assa//
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 251	Fire Trauma
 252	Claw Mastery
 253	Psychic Hammer
@@ -279,6 +311,10 @@
 278	Venom
 279	Shadow Master
 280	Royal Strike
+<<<<<<< HEAD
+=======
+// //
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 281	Wake Of Destruction Sentry
 282	Imp Inferno
 283	Imp Fireball

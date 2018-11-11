@@ -360,7 +360,11 @@ function Follower() {
 		say("Act change successful.");
 
 		if (act === 2) {
+<<<<<<< HEAD
 			say("Don't forget to talk to Drognan after getting the Viper Amulet!");
+=======
+			print("Don't forget to talk to Drognan after getting the Viper Amulet!");
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 		}
 
 		return true;
@@ -613,18 +617,30 @@ function Follower() {
 	}
 
 	if (!leader) {
+<<<<<<< HEAD
 		say("Leader not found.");
 		delay(1000);
 		quit();
 	} else {
 		say("Leader found.");
+=======
+		say("!Leader not found.");
+		delay(1000);
+		quit();
+	} else {
+		say("!Leader found.");
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 	}
 
 	while (!Misc.inMyParty(Config.Leader)) {
 		delay(500);
 	}
 
+<<<<<<< HEAD
 	say("Partied.");
+=======
+	say("!Partied.");
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 
 	if (me.inTown) {
 		Town.move("portalspot");
@@ -651,7 +667,11 @@ function Follower() {
 				leaderUnit = this.getLeaderUnit(Config.Leader);
 
 				if (leaderUnit) {
+<<<<<<< HEAD
 					say("Leader unit found.");
+=======
+					say("!Leader unit found.");
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 				}
 			}
 
@@ -693,17 +713,29 @@ function Follower() {
 
 				switch (result) {
 				case 1:
+<<<<<<< HEAD
 					say("Taking exit.");
+=======
+					say("!Taking exit.");
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 					delay(500);
 					Pather.moveToExit(leader.area, true);
 
 					break;
 				case 2:
+<<<<<<< HEAD
 					say("Taking portal.");
 
 					break;
 				case 3:
 					say("Taking waypoint.");
+=======
+					say("!Taking portal.");
+
+					break;
+				case 3:
+					say("!Taking waypoint.");
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 					delay(500);
 					Pather.useWaypoint(leader.area, true);
 
@@ -728,7 +760,11 @@ function Follower() {
 				Town.move("portalspot");
 
 				if (!Pather.usePortal(39)) {
+<<<<<<< HEAD
 					say("Failed to use cow portal.");
+=======
+					say("!Failed to use cow portal.");
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 				}
 			}
 
@@ -773,9 +809,15 @@ WPLoop:
 			}
 
 			if (getUIFlag(0x14)) {
+<<<<<<< HEAD
 				say("Got wp.");
 			} else {
 				say("Failed to get wp.");
+=======
+				say("!Got wp.");
+			} else {
+				say("!Failed to get wp.");
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 			}
 
 			me.cancel();
@@ -800,11 +842,19 @@ WPLoop:
 			break;
 		case "1":
 			if (me.inTown && leader.inTown && this.checkLeaderAct(leader) !== me.act) {
+<<<<<<< HEAD
 				say("Going to leader's town.");
 				Town.goToTown(this.checkLeaderAct(leader));
 				Town.move("portalspot");
 			} else if (me.inTown) {
 				say("Going outside.");
+=======
+				say("!Going to leader's town.");
+				Town.goToTown(this.checkLeaderAct(leader));
+				Town.move("portalspot");
+			} else if (me.inTown) {
+				say("!Going outside.");
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 				Town.goToTown(this.checkLeaderAct(leader));
 				Town.move("portalspot");
 
@@ -822,14 +872,22 @@ WPLoop:
 		case "2":
 			if (!me.inTown) {
 				delay(150);
+<<<<<<< HEAD
 				say("Going to town.");
+=======
+				say("!Going to town.");
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 				Pather.usePortal(null, leader.name);
 			}
 
 			break;
 		case "3":
 			if (me.inTown) {
+<<<<<<< HEAD
 				say("Running town chores");
+=======
+				say("!Running town chores");
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 				Town.doChores();
 				Town.move("portalspot");
 				say("Ready");

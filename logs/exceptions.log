@@ -1,5 +1,37 @@
+<<<<<<< HEAD
 11/11/2018 13:26
 System.Exception: D2BS Folder is missing file: d2bs.ini
    à D2Bot.Program.LoadProfile(String file)
    à D2Bot.Program.Main()
+=======
+27/10/2018 09:07
+Meebey.SmartIrc4net.CouldNotConnectException: Could not connect to: irc.d2jsp.org:6667 Une tentative de connexion a échoué car le parti connecté n’a pas répondu convenablement au-delà d’une certaine durée ou une connexion établie a échoué car l’hôte de connexion n’a pas répondu 104.20.31.155:6667 ---> System.Net.Sockets.SocketException: Une tentative de connexion a échoué car le parti connecté n’a pas répondu convenablement au-delà d’une certaine durée ou une connexion établie a échoué car l’hôte de connexion n’a pas répondu 104.20.31.155:6667
+   à System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   à Meebey.SmartIrc4net.IrcConnection.Connect(String[] addresslist, Int32 port)
+   --- Fin de la trace de la pile d'exception interne ---
+   à Meebey.SmartIrc4net.IrcConnection.Connect(String[] addresslist, Int32 port)
+   à D2Bot.IRCProfile.StartIRC()
+
+27/10/2018 09:07
+Meebey.SmartIrc4net.NotConnectedException: Erreur de l'application.
+   à Meebey.SmartIrc4net.IrcConnection.WriteLine(String data, Priority priority)
+   à Meebey.SmartIrc4net.IrcClient.Login(String[] nicklist, String realname, Int32 usermode, String username, String password)
+   à Meebey.SmartIrc4net.IrcClient.Login(String nick, String realname, Int32 usermode, String username, String password)
+   à D2Bot.IRCProfile.StartIRC()
+
+27/10/2018 09:09
+Meebey.SmartIrc4net.CouldNotConnectException: Could not connect to: irc.d2jsp.org:6667 Une tentative de connexion a échoué car le parti connecté n’a pas répondu convenablement au-delà d’une certaine durée ou une connexion établie a échoué car l’hôte de connexion n’a pas répondu 104.20.31.155:6667 ---> System.Net.Sockets.SocketException: Une tentative de connexion a échoué car le parti connecté n’a pas répondu convenablement au-delà d’une certaine durée ou une connexion établie a échoué car l’hôte de connexion n’a pas répondu 104.20.31.155:6667
+   à System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   à Meebey.SmartIrc4net.IrcConnection.Connect(String[] addresslist, Int32 port)
+   --- Fin de la trace de la pile d'exception interne ---
+   à Meebey.SmartIrc4net.IrcConnection.Connect(String[] addresslist, Int32 port)
+   à D2Bot.IRCProfile.StartIRC()
+
+27/10/2018 09:09
+Meebey.SmartIrc4net.NotConnectedException: Erreur de l'application.
+   à Meebey.SmartIrc4net.IrcConnection.WriteLine(String data, Priority priority)
+   à Meebey.SmartIrc4net.IrcClient.Login(String[] nicklist, String realname, Int32 usermode, String username, String password)
+   à Meebey.SmartIrc4net.IrcClient.Login(String nick, String realname, Int32 usermode, String username, String password)
+   à D2Bot.IRCProfile.StartIRC()
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 

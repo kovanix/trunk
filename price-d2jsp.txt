@@ -1,0 +1,1108 @@
+"Prices are always subject to change; use this as a guide not as a bible."
+
+Ctrl + F = Quickly Find Specific Items
+
+1. Runes
+2. Charms
+2.1 Grand Charms
+2.2 Large Charms
+2.3 Small Charms
+2.4 LLD small charms
+3. Jewels
+4. Sets
+5. Runewords
+6. Helms
+7. Boots
+8. Gloves
+9. Armors
+10. Shields
+11. Belts
+12. Weapons
+13. Amulets
+14. Rings
+15. Hybrid Runewords
+16. Crafted Items
+16.1 Rings
+16.2 Belts
+17. 1.08/1.09 Items
+18. Bugged Items
+19. Unperm Items
+20. Services
+21. Misc
+
+1. Runes
+
+El - Mal | < 1fg each
+Hel | 1fg
+Ist | 1 fg
+Gul | 1 fg
+Vex - Zod | 2 fg
+
+2. Charms
+
+Anni Unid | 10fg
+Anni (10-15/10-15/x) | 5 - 10 fg
+Anni (10-15/10-15/10) | 10 - 15 fg
+Anni (10-15/16-20/x) | 10 - 20 fg
+Anni (16-19/10-15/x) | 10 - 20 fg
+Anni (16-19/16-19/x) | 10 - 45 fg
+Anni 19/20/x | 60 - 80 fg
+Anni 17/20/10 | 45 - 55 fg
+Anni 18/20/10 | 70 - 90 fg
+Anni 19/20/10 | 100 - 150 fg
+Anni (20/10-15/x) | 20 - 40 fg
+Anni (20/16/x) | 50 fg
+Anni (20/17/x) | 80 fg
+Anni (20/18/x) | 75 - 100 fg
+Anni (20/19/x) | 100 - 150 fg
+Anni (20/10-14/10) | 20 - 35 fg
+Anni (20/15-18/10) | 35 - 50 fg
+Anni 20/19/10 | 125 - 150 fg
+Anni 20/20/5 | 200 - 250 fg
+Anni 20/20/6 | 250 - 300 fg
+Anni 20/20/7 | 300 - 350 fg
+Anni 20/20/8 | 350 - 400 fg
+Anni 20/20/9 | 400 - 450 fg
+Anni 20/20/10 | 950 - 1.2k fg
+
+Torch unid | 5 - 10 fg
+Torch (Any Class) 10-15/10-15 | 3 - 5 fg
+Torch (Any Class) 16-19/10-15 | 5 - 10 fg
+Torch (Any Class) 10-15/16-20 | 5 - 15 fg
+Torch (Any Class) 16-18/16-20 | 10 - 25 fg
+Torch (Any Class) 19/20 | 50 fg
+Torch (Any Class) 20/10-14 | 20 fg
+Torch (Any Class) 20/15-17 | 30 fg
+Torch (Any Class) 20/18 | 40 - 50 fg
+Torch (Any Class) 20/19 | 60 - 75 fg
+Torch (Any Class) 20/20/5% | 100 - 200 fg
+Torch (Sorceress) 20/20/25% | 600
+Torch (Necromancer) 20/20/25% | 600
+Torch (Assassin) 20/20/25% | 1000 - 1500
+Torch (Amazon) 20/20/25% | 1000 - 1500
+Torch (Druid) 20/20/25% | 1000 - 1500
+Torch (Barbarian) 20/20/25% | 1000 - 1500
+Torch (Paladin) 20/20/25% | 2000
+
+2.1 Grand Charms
+
+1 Warcry 40 Gold find | 100 - 150 fg 
++1 Class Skill plain | 1 - 3 fg
++1 Class Skill fhr | 5 - 15 fg
++1 Class Skill 1x life | 5 - 10 fg
++1 Class Skill 2x life | 10 - 20 fg
++1 Class Skill 30 life | 25 fg
++1 Class Skill 3x life | 30 fg
++1 Class Skill 40 life | 50 fg
++1 Class Skill 41 life | 50+ fg
++1 Class Skill 42 life | 50+ fg
++1 Class Skill 43 life | 50+-fg
++1 Class Skill 44 life | 50+ fg
++1 Class Skill 45 life | 100+ fg
++1 Class Skill Matching Set of 45s | 900 - 1200 fg
++1 Class Skill Un Matching Set of 45's | 800 - 1000
+
+10 Max/50+ Ar/30-39 Life: 25 - 40 fg
+10 Max/70+ Ar/40 Life: 75 - 100 fg
+10 Max/70+ Ar/41 Life: 100 fg
+10 Max/70+ Ar/42 Life: 100 fg
+10 Max/70+ Ar/43 Life: 100 fg
+10 Max/70+ Ar/44 Life: 150 fg
+10 Max/70+ Ar/45 Life: 200 fg
+10 Max/76 Ar/45 Life: 550 - 650 fg
+9x Matching Set 10 Max/76 Ar/45 Life: 6000 fg
+9x Non - Matching Set 10 Max/76 Ar/45 Life: 5500 fg
+
+1xx Ar 20-29 Life | 5 - 10 fg
+1xx Ar 30-35 Life | 10 - 20 fg
+1xx Ar 36-39 Life | 20 - 30 fg
+1xx Ar 40 Life | 30 - 40 fg
+1xx Ar 41 Life | 40 - 50 fg
+1xx Ar 42 Life | 55 - 65 fg
+1xx Ar 43 Life | 65 - 75 fg
+1xx Ar 44 Life | 75 - 85 fg
+132 Ar 44 Life | 85 - 95 fg
+1xx Ar 45 Life | 95 - 100 fg
+132 Ar 45 Life | 100 - 150 fg
+9x Matching Set 132 Ar 45 Life | 1,000 - 1,500 fg
+
+12 Max 69-75 AR | 50 fg
+12 Max 76 AR | 75 fg
+13 Max 69-75 AR | 60 fg
+13 Max 76 AR | 100 fg
+14 Max 69-75 AR | 75 fg
+14 Max 76 AR | 150 fg
+
+1xx Ar 12 FHR | 10 - 15 fg
+132 Ar 12 FHR | 25 - 35 fg
+
+15@res 45 Life | 100 fg
+15@res 44 Life | 75 fg
+15@res 7 FRW | 30 fg
+15@res 12 FHR | 30 fg
+15@res 6 STR | 30 fg
+15@res 6 DEX | 30 fg
+15@res 40% EG | 100 fg
+
+40% EG 12% MF | 100 fg
+45 Life 59 Mana | 100 fg
+43-44 Life 57-59 Mana | 65 fg
+43-45 Life 57-58 Mana | 65 fg
+59 Mana 7 FRW | 30 fg
+59 Mana 12 FHR | 30 fg
+
+20 Life / 33 Mana: 70 per
+25 Life / 46 Mana: 70 per
+
+Gheeds Fortune random stats | 1 fg
+Gheeds Fortune 40% mf | 5-10 fg
+Gheeds Fortune 160% gf | 5-10 fg
+Gheeds Fortune 40% mf 160% gf 15% vendor | 100+ fg
+
+Large Charms 2.2
+
+15 Life 12 AR: 50 per
+15 Life 7 Mana: 50 per
+
+3 max 20 life 5 str | 75 fg
+3 max 20 life 5 dex | 75 fg
+
+6 max 40-47 ar 35 life | 100 fg
+6 max 48 ar 35 life | 500 per
+
+2.3 Small Charms
+
+2x extra gold | 10 fg
+3x extra gold | 20 - 30 fg
+40 extra gold | 50 - 60 fg
+
+20 life 19-29 Fire dmg | 200 - 300 fg
+20 Life 10-20 Cold dmg | 250 - 350 fg
+3 frw 5 res | 20 - 30 fg
+3 frw 11 res | 15 - 25 fg
+3 frw 3 max XX ar | 5 - 10 fg
+3 frw 3 max 20ar | 25 - 35 fg
+3 max 1x ar 5 fhr | 10 - 15 fg
+3 max 20 ar 5 fhr | 20 - 25 fg
+3 max 1x ar 10-17 life | 10 - 20 fg
+3 max 1x ar 18 life | 20 fg
+3 max 1x ar 19 life | 30 fg
+3 max 20 ar 19life | 50 - 60 fg
+3 max 10-17 ar 20 life | 25 - 35 fg
+3 max 18 ar 20 life | 30 - 40 fg
+3 max 19 ar 20 life | 40 - 50 fg
+3 max 20 ar 20 life | 75 - 85 fg
+37x 3 max 20 ar 20 life | 2.5k - 2.8k (depends if matching)
+4 max 20 ar | 30 - 40 fg
+30 Def 20 Life | 30 - 50 fg
+36 Ar 20 Life | 30 - 50 fg
+5 fhr 5 res | 20 - 25 fg
+5 fhr 11 res | 20 - 25 fg
+5 fhr 17 mana | 15 - 20 fg
+10x 20 life 5 res | 550 - 700 (depends if matching)
+20 life 5 res | 60 - 75 fg
+19 life 5 res | 40 - 50 fg
+18 life 5 res | 25 - 40 fg
+17 life 5 res | 30 - 35 fg
+20 life 11 res | 20 - 25 fg
+20 life 10 res | 10 - 15 fg
+20 life 17 mana | 25 - 40 fg
+20 life 16 mana | 5 - 10 fg
+451 psn | 30 - 50 fg
+377 psn | 40 fg
+330 psn | 30 fg
+313 psn | 10 fg
+290 psn | 5 fg
+175 psn 20 life | 20 - 30 fg
+100 psn 20 life | 10 - 20 fg
+20 life | 1 fg
+7 mf | 1 fg
+5 res | 1 fg
+5fhr | 1 fg
+
+2.4 LLD small charms
+
+15 Life 12 Mana | 40 fg
+15 Life 7 Mana | 40 fg
+15 Life 8 def | 20 fg
+15 Life 20 def | 20 fg
+15 Life 12 Ar | 30 fg
+15 Life 1-11 Light Dmg | 30 fg
+15 Life 1-3 Fire Dmg | 20 fg
+
+3 max 20 ar 15 Life | 75 fg
+15 Life 5@res | 50 fg
+
+3. Jewels
+
+Melee/Damage:
+beast eye 30ed/60ar/9str/9dex | 300fg
+bone eye 7fhr/30ed/9str/9dex | 50fg
+bone scarab 26ed/58ar/33defense/9dex | 150fg
+death whorl 29ed/10min damage/59ar | 30fg
+doom scarab 30ed/59ar/9str/-15req | 50fg
+doom talisman 10min damage/60ar/9str/9dex | 60fg
+ghoul whorl 7fhr/30ed/9max damage/9str | 30fg
+havoc gyre 7fhr/27ed/9str/9dex| 30fg
+plague whorl 7fhr/29ed/18min damage | 40fg
+raven heart 30ed/9min damage/9str/9dex | 60fg
+raven talisman 18min damage/18max damage | 50fg
+rune scarab 7fhr/56ar/9dex/-15req | 150fg
+rune whorl 7fhr/29ed/60ar/-15req | 40fg
+shadow eye 7fhr/22ed/53ar/9str | 150fg
+shadow talisman 7fhr/26ed/58ar/10all res | 200fg
+skull eye 10min/9max/8str/9dex | 40fg
+skull scarab 30ed/9str/9dex/-15req | 40fg
+skull talisman 7fhr/23ed/54ar/9dex | 200fg
+viper heart 7fhr/59ar/4rep life/-15req | 40fg
+wraith gyre 7fhr/29ed/9max damage/9dex | 30fg
+wraith heart 24ed/21ar/9str/9dex | 40fg
+wraith talisman 30ed/60ar/9str/9dex | 150fg
+wraith whorl 28ed/9str/9dex/3rep life | 40fg
+
+Cold Res Stack/All Res:
+beast scarab 7fhr/9str/30cold res/-15req | 40fg
+bone heart 7fhr/9dex/8life/30cold res | 40fg
+bone heart 8life/3rep life/34cold res/9all res | 40fg
+death gyre 7fhr/8str/22cold res/9all res | 40fg
+dread whorl 7fhr/8str/4rep life/30cold res | 40fg
+eagle heart 7fhr/8dex/29cold res/-15req | 40fg
+ghoul scarab 7fhr/35cold res/10all res/-15req | 40fg
+ghoul talisman 7fhr/4rep life/28cold res/-15req | 40fg
+grim gyre 30ed/9str/9dex/25cold res | 30fg
+plague gyre 7fhr/9str/9dex/25cold res | 30fg
+raven scarab 7fhr/9dex/37cold res/10all res | 50fg
+skull heart 4rep life/40cold res/10all res/atd 4 | 50fg
+stone scarab 7fhr/4rep life/30cold res | 40fg
+storm whorl 7fhr/9dex/30cold res/-15req | 40fg
+viper scarab 30ed/34cold res/7all res/-15req | 40fg
+wraith scarab 7fhr/8str/35cold res/9all res | 250fg
+
+Fire Res Stack/All Res:
+beast heart 7fhr/9dex/27fire res/-15req | 40fg
+bitter talisman 7fhr/9str/7life/28fire res | 40fg
+bone scarab 9str/9dex/9energy/30fire res | 30fg
+doom talisman 7fhr/9str/36fire res/9all res | 50fg
+havoc heart 7fhr/9str/30fire res/11% dmg taken to mana | 30fg
+rune eye 7fhr/9dex/36 fire res/7all res | 50fg
+shadow scarab 7fhr/4rep life/27fire res/-15% req | 40fg
+
+Light Res Stack/All Res:
+blood gyre 30ed/9dex/3rep life/30light res | 50fg
+doom gyre 7fhr/9str/29light res/9all res | 40fg
+doom heart 7fhr/9dex/37light res/8all res | 60fg
+ghoul heart 7fhr/9str/3rep life/27light res | 30fg
+plague talisman 7fhr/4rep life/22light res/-15% req | 40fg
+raven gyre 9str/9dex/35light res/9all res | 40fg
+raven scarab 25ed/9str/9dex/25light res | 200fg
+shadow eye 7fhr/9str/9dex/28light res | 40fg
+skull scarab 7fhr/40light res/10all res/-15req | 40fg
+stone heart 7fhr/9str/4rep life/27light res | 50fg
+stone scarab 7fhr/9str/9dex/26light res | 40fg
+storm heart 7fhr/9dex/21light res/-15req | 30fg
+
+All Res:
+beast heart 7fhr/9str/9all res/-15req | 30fg
+blood eye 7fhr/9str/8dex/10all res | 30fg
+doom gyre 7fhr/9str/9dex/10all res | 50fg
+doom talisman 7fhr/8dex/3rep life/8all res | 30fg
+dread whorl 7fhr/9str/3life/10all res | 40fg
+havoc gyre 7fhr/7life/10all res/-15req | 40fg
+plague gyre 7fhr/4rep life/15mana/10all res | 50fg
+rune scarab 7fhr/9str/4rep life/10all res | 40fg
+skull heart 7fhr/8str/8dex/8all res | 20fg
+stone heart 7fhr/3str/4rep life/8 all res | 30fg
+storm whorl 7fhr/9str/8dex/8all res | 30fg
+storm whorl 7fhr/9str/15mana/10all res | 40fg
+
+Other caster:
+death heart 7fhr/9str/9dex/15mana | 50fg
+plague gyre 9str/9dex/15mana/-15req | 40fg
+
+LLD:
+bitter scarab 24defense/9dex/15mana/30light res lvl 28 req | 40fg
+blood gyre 20ed/3-6 damage/35ar lvl 9 req | 40fg
+blood whorl 19ed/16max damage/8dex lvl 28 req | 40fg
+bone eye 20ed/9max damage/45ar/-15 req lvl 18 req | 30fg
+doom eye 9dex/10all res/-15req lvl 28 req | 30fg
+eagle eye 15ed/8max damage/5str/5dex lvl 27 req | 30fg
+eagle gyre 14 max/9mana/-15req lvl 9 req | 40fg
+eagle scarab 6str/9dex/15mana/-15req lvl 28 req | 30fg
+grim talisman 5str/9dex/7life/10all res lvl 28 req | 40fg
+plague eye 6str/7dex/15mana/10all res lvl 28 req | 40fg
+raven gyre 20ed/9max/1energy/-15req lvl 9 req | 40fg
+
+Magics:
+15ias/15all res | 15 fg 
+20life/15all res | 15 fg 
+40ed/15ias | 15 fg 
+20life/30fire res | 15 fg 
+20life/30light res | 15 fg 
+20life/30cold res | 15 fg 
+4rep life/15all res | 15 fg 
+15ias/30light res | 15 fg 
+15ias/30fire res | 15 fg 
+15ias/30cold res | 15 fg 
+15ias/30poison res | 15 fg 
+9dex/15all res | 15 fg 
+9str/15all res | 15 fg 
+7fhr/15all res | 15 fg 
+15all res/-15req | 15 fg 
+30 max damage | 15 fg 
+24 max damage lvl 27 req | 15 fg 
+20 max damage lvl 18 req | 15 fg 
+14 max damage lvl 9 req | 15 fg 
+15 max damage/60ar lvl 18 req | 15 fg 
+40ed/20life | 15 fg 
+40ed/10min damage | 15 fg 
+40ed/-15req | 15 fg 
+40ed/9dex | 15 fg 
+40ed/9str | 15 fg 
+40ed/7fhr | 15 fg 
+40ed/15max damage | 15 fg 
+40ed/4rep life | 15 fg 
+15ias/100ar | 15 fg 
+15ias/30ed lvl 37 req | 15 fg 
+30ed/15max damage lvl 37 req | 15 fg 
+15ias/15max damage | 15 fg 
+15max damage/15all res | 15 fg 
+20life/20mana | 15 fg 
+20ed/15max damage lvl 18 req | 15 fg 
+4-15 damage lvl 18 req | 15 fg 
+
+Facets:
+5/5 light die facets | 15 fg 
+5/5 poison die facet | 10 fg 
+5/5 cold die facet | 10 fg 
+5/5 fire die facet | 10 fg 
+
+4. Sets
+
+Rand Set (Ex: Sigon's Set): 5 - 10 fg
+Tal Rasha's Set (rand): 10 - 15 fg
+Tal Rasha's Set (100% P): 100 - 200+ fg
+Griswold's Set (P Sockets): 20 - 30 fg
+Griswold's Set 5/5'd Faceted: 75 - 125 fg
+Griswold's Set (100% P): 250 - 400 fg
+Griswold's Set (100% P, 5/5 Faceted): 500+ fg
+Aldur's Set: 10 - 15 fg
+Aldur's Set (100% P): 150 - 200 fg
+Trang Oul's Set: 15 - 20 fg
+Trang Oul's Set (100% P): 100 - 350 fg
+Immortal King's Set: 10 - 15 fg
+Immortal King's Set (100% P): 100 - 200 fg
+Natalya's Set : 10 - 15 fg
+Natalya's Set (100% P): 300 - 400 fg
+Mavina's Set: 15 - 20 fg
+Mavina's Set (100% P): 100 - 200 fg
+Angelic Rings + Ammy: 5 fg
+
+5. Runewords
+
+Beast zerk random stats | 5 fg
+Beast zerk 38+ str | 10 fg
+Beast zerk 260+ ed 38+ str | 25 fg
+Beast zerk 285 ed 40 str 15 ed 3 ar | 100 - 150 fg
+Botd eth zerk random stats | 15 - 25 fg
+Botd eth zerk 390-400%+ ed | 30 - 40 fg
+Botd eth zerk 401-414% ed | 35 - 45 fg
+Botd eth zerk 415% ed | 50 - 70 fg
+Botd eth zerk 415% ed 15 LL | 55 - 75 fg
+Botd eth zerk 415% ed 15 LL 3 ar/15% dura | 100 - 150 fg
+CTA rand | 5 - 10 fg
+CTA 6 bo | 25
+CTA 6/6/x | 30 - 40 fg
+CTA 6/6/4 | 50 - 75 fg
+CTA 6/6/4/3/3/3 HS | 50 - 75 fg
+CTA 6/6/4/3/3/3 FOH | 50 - 75 fg
+CTA 6/6/4 15/3 100% P | 450 - 600 fg
+Eth CTA 6/6/4 15/3 100% P | 550 - 600
+Eth Death Zerk 400ed (15/3 base) 150 fg 
+Eth Death CS 400ed (15/3 base) 250 fg 
+Eth Death Ettin Axe- 400ed (15/3 base) 200 fg 
+Destruction Cryptic Axe- 365ed- 40fg
+Death CB eth perf | 300 fg
+Doom zerk random stats | 10 fg
+Doom zerk 370%+ ed -55%+ coldres | 30 fg
+Doom zerk 385% ed -60%+ coldres | 150 - 300 fg
+Doom Cryptic Axe- Rando | 30 fg 
+Doom Cryptic axe- 385ed, -59 cold (15/3 base) | 100 fg 
+Doom Cryptic Axe- 385ed, 60% cold res (15/3 base) | 250 fg 
+Faith Gmb 3 bow skills random stats | 5 - 10 fg
+Faith Gmb 3 bow skills 15 Aura | 40 - 50 fg
+Faith Gmb 3 bow skills 15/2/3 | 65 fg
+Faith Gmb 3 bow skills 15/2/3 15% ed | 65 - 75 fg
+Faith Gmb 3 bow skills 15/2/3 15% ed 3 ar | 75 - 125 fg
+Grief zerk random stats | 10 fg
+Grief zerk random dmg 34ias+ | 10 fg
+Grief zerk 34ias+ 390dmg+ | 20 fg
+Grief zerk 34ias+ 400dmg | 25 - 50 fg
+Grief zerk 40ias 400dmg | 75 - 100 fg
+Grief zerk 40ias 400dmg 15% ed 3 ar| 100 - 150 fg
+Grief zerk 40ias 400dmg 15% ed 3 ar -25% Psn 15 Leak | 300 - 400 fg
+Grief PB random stats | 10 fg
+Grief PB random dmg 34ias+ | 10 fg
+Grief PB 34ias+ 390dmg+ | 20 fg
+Grief PB 34ias+ 400dmg | 25 - 50 fg
+Grief PB 40ias 400dmg | 75 - 100 fg
+Grief PB 40ias 400dmg 15% ed 3 ar| 100 - 150 fg
+Grief PB 40ias 400dmg 15% ed 3 ar -25% Psn 15 Leak | 300 - 400 fg
+Grief CB 40ias 400dmg 15% ed 3 ar| 200 - 350 fg
+Grief CB 40ias 400dmg 15% ed 3 ar -25% Psn 15 Leak | 400 - 600 fg
+Harmony | 5 fg
+Hoj zerk/Pb random stats | 5 fg
+Hoj zerk/Pb 320%+ ed | 10 fg
+Hoto random stats | 5 - 15 fg
+Hoto 40 res | 20 - 30 fg
+Hoto eth 40 res | 40 - 50 fg
+Hoto sourge 40 res | 30 - 40 fg
+Hoto sourge eth 40 res | 75 - 100 fg
+Ice GMB rand | 20 fg
+Infinity eth random stats | 25 - 35 fg
+Infinity eth 320%+ ed -55% lightres | 25 - 50 fg
+Infinity low req (sorc finity; voulge or poleaxe 4ex) | 50 - 100
+P Eth Infinity | 350+ fg
+Insight eth random stats | 10 - 15 fg
+Insight eth 17 aura | 20 - 40 fg
+P Eth Insight | 400 - 500 fg
+Last Wish zerk/Pb random stats | 20 - 30 fg
+Last Wish zerk/Pb 370%+ ed 65+ cb | 50 fg
+Last Wish zerk/Pb 385%+ ed 70 cb | 150 - 200 fg
+Memory 9es Xca/Xsa | 25 - 50 fg
+Phoenix Perf Eth Cryptic Axe | 350 fg
+Pride eth CV random stats | 10 fg
+Pride eth CV 19+ Aura 290% ar | 40 fg
+Pride eth CV 19+ Aura 290% ar 15% ed | 50 fg
+Pride eth 20 Aura | 100 - 150 fg
+P Eth pride | 250 - 300 fg
+Spirit Sword 35 fcr | 35 - 50 fg
+Spirit Sword Perf | 200 - 250 fg
+Spirit Sword Perf Eth | 500 - 750 fg
+
+Delirium | 5 fg
+Delirium in random 3 nado or 3 bo helm | 10 fg
+Dream random stats | 10 - 20 fg
+Dream 30% fhr 20 res +2xx def | 30 fg
+
+Bramble random | 5 fg
+Bramble 20+ Aura 45%+ psnres | 10 fg
+Coh | 5 - 10 fg
+Coh 15% ed | 25 - 50 fg
+Dragon random stats | 10 - 15 fg
+Dragon 5 attr | 25+ fg
+Enigma random stats | 5 - 10 fg
+Enigma 15% ed | 10 - 25 fg
+Enigma 15% ed 775 def | 40 - 50 fg
+Enigma 15% ed 15% Dura 775 def | 50 - 100 fg
+Forti Ap/Dusk/Wire random | 10 - 20 fg
+Forti Ap/Dusk/Wire 30 res 1.5 lpl | 50 - 100 fg
+Forti Ap/Dusk 30 res 1.5 lpl 15% ed | 50 - 100 fg
+Forti Wire 30 res 1.5 lpl 15% ed | 350+ fg
+Forti Ap/Dusk 30 res 1.5 lpl 15% ed 15%dura | 50 - 100 fg
+Forti Wire 30 res 1.5 lpl 15% ed 15%dura | 50 - 100 fg
+Forti eth Ap/Dusk/Wire random | 30 - 40 fg
+Forti eth Ap/Dusk/Wire 30 res 1.5 lpl (Perfect) | 50 - 100 fg
+Stone eth bugged armor random | 5 fg
+Stone eth bugged armor 4.8k+ def | 10 fg
+Stone eth bugged armor 5265def | 100 - 150 fg
+
+Dragon ST random stats | 5 fg
+Dragon ST 30-39 base res | 10 fg
+Dragon ST 40-44 base res | 10 fg
+Dragon ST 45 base res | 20 fg
+Dragon random shield | 5 fg
+Dream random shield & stats | 15 - 20 fg
+Dream random shield 25%+ fhr 15+ res | 25 - 35 fg
+Dream ST random stats | 20 - 25 fg
+Dream ST 60+ res 25% fhr | 40 fg
+Exile eth ST random stats | 15 - 30 fg
+Exile eth ST 45 res | 20 fg
+Exile eth ST 45 res 16 Aura 260% ed | 150 - 250 fg
+Exile eth Vortex rand | 20 fg
+Exile eth Vortex 45 res | 25 fg
+Exile eth Vortex 45 res 16 Aura 260% ed | 150 - 250 fg
+Phoenix Monarch random | 5 - 15 fg
+Phoenix Monarch 380%+ ed | 20 fg
+Phoenix Monarch 400% ed 14+ Aura | 60 fg
+P Phoenix Mon | 250 - 300 fg
+Phoenix ST random stats | 20 fg
+Phoenix ST 40-44 res | 25 fg
+Phoenix ST 45 res | 30 fg
+Phoenix ST 45 res 14+ Aura | 50 fg
+P Phoenix ST 45 res | 250 - 300 fg
+Sanctuary random stats | 5 - 15 fg
+Sanctuary 100% P | 200 - 250 fg
+Spirit Monarch random stats | 5 - 10 fg
+Spirit Monarch 35 fcr | 25 - 50 fg
+Spirit Monarch 35 fcr 112 mana 8 absorb | 50 - 100 fg
+Spirit Monarch 35 fcr 112 mana 8 absorb 15 ed | 100 - 150 fg
+Spirit Monarch 35 fcr 112 mana 8 absorb 15 ed 15 dura | 250 - 350 fg
+Spirit Monarch eth random stats | 5 - 10 fg
+Spirit Monarch eth 35fcr | 25 - 50 fg
+P Eth Spirit Mon | 500 - 1000
+Spirit Pala Shield random stats | 5 - 10 fg
+Spirit Pala Shield 35 fcr 45 res | 40 fg
+Spirit Pala Shield 35 fcr 45 res 112 mana 8 absorb | 75 - 100 fg
+Spirit ST random stats | 5 - 10 fg
+Spirit ST 45 res 35 fcr | 15 - 35 fg
+Spirit ST 45 res 35 fcr 112 mana 8 abs | 100 - 150 fg
+Spirit ST 45 res 35 fcr 112 mana 8 abs 15 ed 15 dura | 250 - 300 fg
+Corey
+#2 Jan 16 2016 05:06pm
+Group: Member
+Posts: 27,724 
+Joined: Apr 25 2007
+Gold: 129.89
+6. Helms
+
+Arreats Face random stats | 5 - 15 fg
+Arreats Face 200/6 | 30 - 50 fg
+Arreats Face eth random stats | 10 - 15 fg
+Arreats Face eth 200/6 | 40 - 60 fg
+Arreats Face upg random stats | 40 - 70 fg
+Arreats Face upg 200/6 | 70 - 100 fg
+Arreats Face upg 200/6 (504def) | 800 - 900 fg
+Arreats Face eth upg random stats | 50 - 200 fg
+Arreats Face eth upg 200/6 | 1k fg
+Andariels Visage random stats | 5 fg
+Andariels Visage 30/10 | 15 fg
+Andariels Visage perf | 100 - 125 fg
+Andariels Visage eth random stats | 5 - 15 fg
+Andariels Visage eth perf | 250+ fg
+Andariels Visage eth perf (all charges) | 1500 - 2000 fg
+Coa 1os | 1 - 5 fg
+Coa 2os random stats | 10 - 40 fg
+Coa 2os 15% dr | 50 - 75 fg
+Coa 2os 15% dr 30 res | 120 - 150 fg
+Coa 2os 15% dr 30 res +150def | 150 - 200 fg
+Cot random stats | 1 - 3 fg
+Cot 100% eg | 10 - 15 fg
+Cot 12% LL 200% ed 100% eg | 20 - 25 fg
+Cot eth 12% LL 200% ed 100% eg | 80 - 125+ fg
+Giant Skull random stats | 3 - 5 fg
+Giant Skull 2os 35 str | 10 - 20 fg
+Giant Skull Eth 2os 35Str | 25 - 50
+Giant Skull Eth 2os 35 str 320 defense (555 total) | 200 - 300
+Griffons Eye random stats | 5 - 20 fg
+Griffons Eye 15% dmg | 15 - 30 fg
+Griffons Eye 15% dmg -17-19 lightres | 30 - 50 fg
+Griffons Eye -20 res +15% dmg random def | 75 - 100 fg
+Griffons Eye -20 res +15% dmg +200 def | 100 - 150 fg
+Griffons Eye -20 res +15% dmg +200 def 260 total def | 150 - 200 fg
+Kiras Guardian random stats | 1 - 3 fg
+Kiras Guardian 70 res | 10 - 15 fg
+Kiras Guardian 70 res +120 def | 50 - 100 fg
+Kiras Guardian 70 res upg | 20 - 30 fg
+Kiras Guardian 70 res upg +120 def | 500 - 1000 fg
+Jalal's Mane rand | 1 - 3 fg
+Jalal's Mane 200% | 5 fg
+Jalal's Mane 200% up | 10 - 15 fg
+Jalal's Mane upg 100% p | 300 - 400 fg
+Cerebus's Bite 100% p | 800 - 900 fg
+Nightwings Veil random stats | 1 - 3 fg
+Nightwings Veil 15% | 20 - 30 fg
+Nightwings Veil 120% def 20 dex 15% | 150 - 250 fg
+Shako random | 1 - 2 fg
+Shako 141 def | 5 - 10 fg
+Shako eth 212def | 10 fg
+Vampire Gaze random | 3 - 5 fg
+Vampire Gaze 20% dr | 10 fg
+Vampire Gaze 8%LL 8%ML 20% dr 15mdr | 25 - 40 fg
+Vampire Gaze eth 8%LL 8%ML 20% dr 15mdr | 50 - 80 fg
+
+3 sock 30 frw diadem | 50 - 100 fg
+3 sock 100 life diadem | 50 - 100 fg
+3 sock 100 life diadem | 100 - 150 fg
+3 sock 95-99 life diadem | 50 - 75 fg
+3 sock 20 fcr diadem | 50 - 80 fg
+3 tree skill 20 fcr 2os | 100 - 150 fg
+3 tree skill 100 life 2os | 100 - 150 fg
+2 class skill 100 life 2os | 50 - 100 fg
+2 class skill 20 fcr 2os | 50 - 100 fg
+
+7. Boots
+
+Gore Rider random stats | 1 - 3 fg
+Gore Rider 200% ed 162def | 10 - 15 fg
+Gore Rider upg random stats | 3 - 5 fg
+Gore Riders upg 200%ed | 10 - 20 fg
+Gore Rider upg 200% ed 213def | 150 - 180 fg
+Hotspur rand | 5 fg
+Hotspur 20% ed | 10 - 20 fg
+Hotspur 80s | 80 - 100 fg
+Marrowwalk 2 skel 20 str | 5 fg
+Marrowwalk 2 skel 20 str 200% ed | 15 - 30 fg
+Sandstorm Trek random stats | 3 - 5 fg
+Sandstorm Trek 15 str 15 vita | 10 - 15 fg
+Sandstorm Trek eth random | 5 - 15 fg
+Sandstorm Trek eth 15 str 15 vita | 25 - 40 fg
+Sandstorm Trek eth 15 str 15 vita 170% ed 70pr | 175 - 250 fg
+Shadowdancers random stats | 10 - 30+ fg
+Shadowdancers 1shad 25 dex | 20 - 35 fg
+Shadowdancers 2shad 25 dex | 40 - 50 fg
+Shadowdancers 90%+ ed 2shad 25dex | 80 - 100 fg
+Shadowdancers 100%ed 2shad 25dex | 250 - 290 fg
+War Traveler random stats | 3 - 5 fg
+War Traveler 50 mf | 10 - 25 fg
+War Traveler 190% ed 10 atd 50 mf | 100 - 150 fg
+Perfect Upg War Travs - 500 - 700
+Waterwalk random stats | 1 - 3 fg
+Waterwalk 65 life | 5 - 15 fg
+Waterwalk 65 life 210% ed | 25 - 40 fg
+Waterwalk upg 65 life | 15 - 30 fg
+Waterwalk upg 65 life 210% ed | 40 - 60 fg
+Waterwalk perfect upg 65 life 210% ed | 400 - 600 fg
+
+8. Gloves
+
+Bloodfist 20% ed | 3 - 5 fg
+Bloodfist 88s | 50 - 75 fg
+Chance Guards random stats | 1 - 3 fg
+Chance Guards 40% mf | 5 - 10 fg
+Draculs Grasp 15 str | 3 - 5 fg
+Draculs Grasp 15 str 10 LL | 5 - 10 fg
+Draculs Grasp 15 str 10 LL 120% ed | 15 - 25 fg
+Draculs Grasp 15 str 10 LL 120% ed 10 laek | 200 - 250 fg
+Frostburn eth | 5 fg
+Frostburn 20% ed | 3 - 5 fg
+Frostburn 93s | 40 - 75 fg
+Magefist 30% ed | 3 - 5 fg
+Magefist 98s | 40 - 50 fg
+Steelrends random stats | 5 - 10 fg
+Steelrends 60% ed | 20 - 25 fg
+Steelrends 60% ed 20 str | 50 - 100 fg
+Steelrends 60% ed 20 str 210% ed 281 def | 250 - 350 fg
+Trang'ouls Gloves 74 def | 5 fg
+
+3 java 20ias | 10 - 15 fg
+3 bow 20 ias | 5 - 10 fg
+
+9. Armors
+
+Arkaines Valor 2 skill | 10 - 20 fg
+Arkaines Valor 2 skill 180ed 15dr | 150 - 200 fg
+Guardian Angel 200%ed | 5 - 10 fg
+Guardian Angel eth 200% ed | 10 - 20 fg
+Guardian Angel upped 200%ed | 20 - 35 fg
+Guardian Angel upped eth 200% ed | 30 - 60 fg
+Guardian Angel Epped eth 200 % ed Perfect | 200 - 250
+Leviathan rand | 1 - 3 fg
+Leviathan 25% dr 45+ str | 10 - 35 fg
+Leviathan +200% def +150 def 25% dr 50 str | 300 fg
+Ormus Robes 3 lightning/nova/es 15 % light | 15 - 25 fg
+Ormus Robes 3 fb/chant 15 % fire | 15 - 25 fg
+Ormus Robes 3 blizz/Ice Blast 15% cold | 50 fg
+Ormus Robes 3 (any above skill) 15% 15% 15% | 150 - 250 fg
+Ormus Robes 3 (Any above skill) 15/15/15/15 Perfect | 350 - 500 fg
+Shaftstop random | 5 fg
+Shaftstop 220 ed | 10-15 fg
+Shaftstop upg 220 ed | 50-100 fg
+Shaftstop eth upg 220 ed (2200+def) | 300 - 500 fg
+Shaftstop eth upg 220 ed (2422+def) | 2,000 - 2,500 fg
+Skin of the Vipermagi random | 5 fg
+Skin of the Vipermagi 35res 13 mdr | 20 - 25 fg
+Skin of the Vipermagi upg 35 res | 20 - 50 fg
+Skin of the Vipermagi upg 35 res 13 mdr 1034 def | 500 - 1000 fg
+Skullders Ire random stats | 1 - 3 fg
+Skullders Ire eth random stats | 10 - 25 fg
+Tyraels Might random | 20 - 40 fg
+Tyraels Might 30 res 30 str | 120 - 200 fg
+Tyraels Might 100 dtd 150 ed 30 res 30 str | 500 - 750+ fg
+
+100 life 4os (price depends on base) | 100 - 200 fg
+24 fhr 4os (price depends on base) | 25 - 50fg
+
+10. Shields
+
+Boneflame random stats | 5 - 15 fg
+Boneflame 140%+ ed 3 pb 28+ res | 40 - 60 fg
+Boneflame eth random stats | 20 - 25 fg
+Boneflame eth 140%+ ed 3 pb 28+ res | 50 fg
+Darkforce Spawn random stats | 3 - 5 fg
+Darkforce Spawn 3 pb sks | 5 - 15 fg
+Darkforce Spawn 180% ed 3/3/3 | 100 - 150 fg
+Herald of Zakarum unid | 5 - 10 fg
+Herald of Zakarum random stats | 5 - 10 fg
+Herald of Zakarum 195-199% ed | 10 - 15 fg
+Herald of Zakarum 200% | 25 - 40 fg
+Herald of Zakarum eth unid | 15 - 20 fg
+Herald of Zakarum eth random stats | 5 - 10 fg
+Herald of Zakarum eth 195%+ ed | 25 - 30 fg
+Herald of Zakarum upg random stats | 3 - 5 fg
+Herald of Zakarum upg 195-199% ed | 20 - 40 fg
+Herald of Zakarum upg 200% ed | 25 - 50 fg
+Herald of Zakarum upg 579 defense 200%ed | 450 - 850 fg
+Herald of Zakarum eth upg 195%+ ed | 30 - 40 fg
+Herald of Zakarum eth upg 200% ed | 40 - 50 fg
+Herald of Zakarum eth upg 200% ed 867 def | 800 - 1000+ fg
+Homunculus random stats | 1 - 3 fg
+Homunculus 200 ed | 15 - 40 fg
+Homunculus upped | 10 - 50fg
+Lidless | 1 - 3 fg
+Lidless 100% P | 15 fg
+Stormshield random | 5 fg
+Stormshield (148 base def) | 10 fg
+
+JSROD - Sacred Ronch 30/20 45 @Res 4os - 500-1k depending on defense
+JSTOD - Sacred Targe 30/20 45 @Res 4os - 500-1k depending on defense
+JSTOD - Sacred Targe 30/20 30-44 @Res 4os | 150 - 200 fg
+JSTOD - Sacred Targe 30/20 20-29 @Res 4os | 100 - 150 fg
+JSTOD - Sacred Targe 30/20 1-19 @Res 4os | 50 - 100 fg
+JSTOD - Sacred Targe 30/20 65ed 121ar 4os - 7k-15k depending on defense
+JSTOD - Sacred Targe 30/20 60+ed 100+ar 4os | 750 - 1000 fg
+JSTOD - Sacred Targe 30/20 40-50ed 80-100ar 4os | 500 - 750 fg
+JSTOD - Sacred Targe 30/20 20ed 40+ar 4os | 250 - 350 fg
+JMOD - Monarch 30/20 4os 148 def | 250 - 350 fg
+JMOD - Monarch 30/20 4os 133-147 def | 100 - 200 fg
+JWOD - Ward 30/20 4os | 100+ fg
+ATSOD - Tower 30/20 3os | 250 - 300 fg
+AKSOD - Kite 30/20 3os | 75 - 100 fg
+ADSOD - Dragon 30/20 3os | 100 - 120 fg
+ATNOD - Troll Nest 30/20 3os | 125 - 175 fg
+
+11. Belts
+
+Arachnid Mesh random %ed | 1 - 5 fg
+Arachnid Mesh 120% ed | 10 fg
+Nosferatus Coil random stats | 1 - 3 fg
+Nosferatus Coil 7% LL | 5 - 10 fg
+Thundergod's Vigor random ed | 3 - 5 fg
+Thundergod's Vigor 200% ed 158 def | 10 - 15 fg
+Thundergod's 100% Perfect Upgraded | 100 - 250 fg
+Verdungos Hearty Cord random stats | 1 - 3 fg
+Verdungos Hearty Cord 15 dr | 5 - 15 fg
+Verdungos Hearty Cord 15 dr 40 vita | 25 - 40 fg
+Verdungos Hearty Cord 15 dr 40 vita 13 rep | 50 - 100 fg
+Verdugnos Hearty Cord 140ed 15 dr 40 vita 13 rep 120 sta | 250 - 300 fg
+Lenymo | <1 fg
+Lenymo Spiderweb Sash | 20 - 30 fg
+
+12. Weapons
+
+Astreons Iron Ward random stats | 1 - 3 fg
+Astreons Iron Ward 4 pc | 10 - 15 fg
+Astreons Iron Ward 4 pc 280%+ ed 190%+ ar | 50 - 80+ fg
+Azurewrath | 5 - 25 fg
+Azurewrath 100% P | 75+ fg
+Bartucs Cut-Throat | 5 - 15 fg
+Boneshade low stats | 3 - 5 fg
+Boneshade high stats | 10 - 25 fg
+Boneshade 100% P | 50+ fg
+Demon Limb | 5 fg
+Suicide Branch noneth | 10 - 15 fg
+Suicide Branch eth | 40 - 50 fg
+Death Cleaver random stats | 5 - 10 fg
+Death Cleaver 280% ed | 50 - 80 fg
+Death Cleaver eth random stats | 25 - 60 fg
+Death Cleaver eth 280% ed | 150 - 200 fg
+Death Cleaver eth 100% P | 250 - 300 fg
+Death Web unid | 10 - 15 fg
+Death Web random | 10 - 25 fg
+Death Web 2 pb -50% res | 50 - 85 fg
+Death Web Perfect 2/-50/12/12 | 150 - 200 fg
+Deaths Fathom unid | 15 - 30 fg
+Deaths Fathom random | 5 - 10 fg
+Deaths Fathom 30% | 20 - 35 fg
+Deaths Fathom 30% 37+/37+ res | 50 - 75 fg
+Deaths Fathom 30% 40/40 Perf| 150 - 250 fg
+Deaths Fathom eth Unid | 25 - 40 fg
+Deaths Fathom eth random | 5 - 15 fg
+Deaths Fathom eth 30% | 65 - 75 fg
+Deaths Fathom eth 30% 37+/37+ res | 125 - 150 fg
+Deaths Fathom eth 30% 40/40 Perf | 250 - 350 fg
+Eschutas Temper random | 1 - 3 fg
+Eschutas Temper 3 skills | 5 fg
+Eschutas Temper 3/20 any kind | 10 - 15 fg
+Eschutas Temper 3/20/30 any kind | 25 - 40 fg
+Eschutas Temper 3/20/20 | 50 - 65 fg
+Eschutas Temper perf (3/20/20/30) | 100 - 150 fg
+Eschutas Temper eth random | 1 - 3 fg
+Eschutas Temper eth 3skill | 5 - 10 fg
+Eschutas Temper eth 3/20 any kind | 25 - 40 fg
+Eschutas Temper eth 3/20/30 any kind | 50 - 75 fg
+Eschutas Temper eth 3/20/20 | 100 - 125 fg
+Eschutas Temper perf eth (3/20/20/30) | 150 - 200 fg
+Occy | 5 fg
+Ondals Wisdom | 5 - 10 fg
+Ondals Wisdom 4 skills | 10 fg
+Ondals Wisdom 4 skills Eth | 15 - 25+ fg
+Reapers Toll random | 10 - 25 fg
+Reapers Toll 100% P (240/15) | 100 - 150 fg
+Reapers Toll eth random | 50 - 100 fg
+Reapers Toll eth 100% P (240/15) | 200 - 300 fg
+Rune Master eth Unid | 20 - 50 fg
+Rune Master 5os random stats | 10 - 25 fg
+Rune Master 5os 270 ed | 50 fg
+Rune Master eth 5os random stats | 75 - 100 fg
+Rune Master eth 5os 270 ed | 150 - 200 fg
+Schaefer's Hammer random stats | 10 - 25 fg
+Schaefer's Hammer 130 ed | 50+ fg
+Stormlash random stats | 5 fg
+Stormlash 300 ed | 10 - 15 fg
+Stormlash eth 300 ed | 50 - 75 fg
+Titans Revenge random stats | 3 - 5 fg
+Titans Revenge 200 | 5 - 10 fg
+Titans Revenge 200 9ll | 5 - 10 fg
+Titans Revenge eth random stats | 3 - 5 fg
+Titans Revenge eth 200 ed 9 ll| 50 - 80 fg
+Titans Revenge eth upg random stats | 5 - 10 fg
+Titans Revenge eth upg 190 ed | 50 - 75 fg
+Titans Revenge eth upg 200 ed | 100 - 150 fg
+Titans Revenge eth upg 200 ed 9ll Perf | 200 - 300 fg
+Thunderstroke random stats | 1 - 3 fg
+Thunderstroke 4 java 180+ ed | 10 - 20 fg
+Thunderstroke 4 java 200 ed | 50+ fg
+Tomb Reaver eth Unid | 50 fg
+Tomb Reaver 1-3os | 5 - 25 fg
+Tomb Reaver eth 3os low stats | 50 - 75 fg
+Tomb Reaver eth 3os high stats | 100 - 200 fg
+Tomb Reaver Eth 3os Near P | 300 - 400
+Tomb Reaver eth 3os 280 ed 230 dtu 50 res 14 ll 80 mf (100% P) | 10k+ fg
+Widowmaker rand | 5 - 10 fg
+Widowmaker 5 ga | 20 - 25 fg
+Widowmaker 5 ga 200 ed | 75 - 100 fg
+Windforce random | 5 fg
+Windforce 8ml | 15 - 20 fg
+Wizzy | 1 - 5 fg
+
+13. Amulets
+
+Cats eye | 3 - 5 fg
+Highlords Wrath | 5 fg
+Maras 20-29 res | 3 - 5 fg
+Maras 30 res | 10 - 15 fg
+Metalgrid low stats | 10 - 15 fg
+Metalgrid high stats | 20 - 30 fg
+Metalgrid 350 def 450 ar 35 res | 250 - 350 fg
+Seraphs Hymn 1 Aura | 2 - 3 fg
+Seraphs Hymn 2 Aura | 5 fg
+
+
+3 skill 10 fcr | 10 - 15 fg
+2 skill 100 life | 50 - 75 fg
+3 skill (tab) 100 life | 50 - 75 fg
+
+14. Rings
+
+Bul Kathos Wedding Band 3-4% LL | 1 fg
+Bul Kathos Wedding Band 5% LL | 2.5 fg
+Nagelring 30% mf | 1 - 5 fg
+Raven Frost 20 dex | 1 fg
+Raven Frost 20 dex 250 ar Perf | 30 - 40 fg
+Stone of Jordan | 2.5 fg
+Wisp Projector random stats | 5-10 fg
+Wisp Projector 20% absorb | 20-30 fg
+Wisp Projector 20% absorb 20% mf | 30 - 50 fg
+Dwarf Star rand | 1 fg
+Dwarf Star P (15mdr) | 5 - 10fg
+
+40 MF: 50 - 75 fg
+2x 40 MF matching gfx: 100 - 150 fg
+10 FCR 120 Mana: ~50 fg
+10 FCR 40 Life: 10 - 15 fg
+10 FCR 11 @ Res: 10 - 15 fg
+
+15. Hybrid Runewords
+
+GoD Zerk | 400 - 1k fg
+GoD Pb | 750 - 1k fg
+BoD Zerk | 400 - 1k fg
+Bramble of chains | 300 - 700 fg
+Beast of honor | 400 - 1k fg
+Treachery of gloom | 200 - 400 fg
+Delirium of Dream | 100 - 250 fg
+Dragon of Dream | 100 - 500 fg
+Faith of Ice GMB | 300 - 400 fg
+Faith of Ice Mat | 300 - 400 fg
+Faith of Ice Shadow | 400 fg
+Fortitude of Chains | 200 - 400 fg
+Fortitude of Bramble | 200 - 600 fg
+Fortitude of Stone | 200 - 600 fg
+Enigma of Duress | 200 - 400 fg
+Enigma of Bone | 200 - 400 fg
+Enigma of Gloom | 200 - 550 fg
+Enigma of Rain | 200 - 400 fg
+Enigma of Peace | 200 - 350 fg
+Fury of Chaos | 200 - 300 fg
+Chaos of Fury | 200 - 300
+Grief of Destruction | 500 - 1000 fg
+Heart of Fortitude | 200 - 350 fg
+Insight of Infinity | 400 - 600 fg
+Rift of Phoenix | 300 - 450 fg
+Spirit of Exile Sacred Targe | 300 - 400 fg
+Spirit of Phoenix Monarch | 400 - 900 fg
+Spirit of Phoenix Sacred Targe | 400 - 800 fg
+Wish of the Dying Pb | 200 - 400 fg
+Wish of the Dying Zerker | 200 - 300 fg
+Heart of Reason | 200 - 350 fg
+Spirit of Reason | 200 - 350 fg
+
+16. Crafted items
+
+16.1 Rings
+
+10fcr 20+str 50+life 10+allres | 2500-3500 fg
+10fcr 23+str 55+life 11allres | 4000-5000 fg
+10fcr 25str 55+life 11allres | 6000 fg
+10fcr 20+str 50+life 25+ lr / fr | 2500-3000 fg
+10fcr 20+str 50+life 25+ cr - 2000
+10fcr 23+str 55+life 25 +lr / fr | 3500 fg
+10fcr 23+str 55+life 25+ cr - 3000
+10fcr 25str 55+life 30 lr / fr | 4000 fg
+10fcr 25str 55+life 30cr | 3500 fg
+10fcr 100+ar 20+str 50+life | 350-750 fg
+10fcr 100+ar 25str 50+life | 750-1000 fg 
+10fcr 100+ar 25str 60life | 5000 fg
+10fcr 100+ar 1+str 10+dex 50+life | 350 - 500 fg
+10fcr 100+ar 3+str 13+dex 55+life | 1000 - 1500 fg
+10fcr 100+ar 5str 15dex 60life | 6000 fg
+90+ar 20+str 10+dex 50+life | 2000 fg
+100+ar 20+str 10+dex 50+life | 2500 fg
+100+ar 23+str 13+dex 55+life | 4000 - 4500 fg
+100+ar 25str 15dex 55+life | 7000 - 8000 fg
+120ar 25str 15dex 55+life | 10,000+ fg
+
+16.2 Belts
+
+10fcr 24fhr 20-25str 30-35mana 5-10%+manareg 20+ fr or cr | 250 fg
+10fcr 24fhr 20-25str 30-35mana 5-10%+manareg 20+ lr | 300 fg
+10fcr 24fhr 20-25str 30-35mana 5-10%+manareg 20+ pr | 150 fg
+10fcr 24fhr 25+str 35+mana 5-10%+manareg 20+ fr or cr | 400 fg
+10fcr 24fhr 25+str 35+mana 5-10%+manareg 20+ lr | 500 fg
+10fcr 24fhr 25+str 35+mana 5-10%+manareg 20+ pr | 250 fg
+10fcr 24fhr 30str 40mana 10%reg 30res (close to) | 1000-1500 fg
+10fcr 24fhr 20-25str 40-50life 10-20mana 5-10%+manareg | 500 fg
+10fcr 24fhr 25+str 50+life 10-20mana 5-10%+manareg | 1000 fg
+10fcr 24fhr 20-25str 40-50life 10-20mana 5-10%+manareg 20+ fr/lr/cr | 1500 fg
+10fcr 24fhr 25+str 50+life 10-20mana 5-10%+manareg 20+ fr/lr/cr | 2500 fg
+10fcr 24fhr 50+life 5+replife | 1500 fg
+10fcr 24fhr 60life 9replife | 4000 fg 
+10fcr 24fhr 50+life 5+replife 20+single res | 3000 - 4000 fg
+10fcr 24fhr 50+life 8+replife 20+single res | 5000 - 6000 fg
+24fhr 10ow 20-26str 70-75life 25+ cr - 200
+24fhr 10ow 20-26str 70-75life 25+ fr - 250
+24fhr 10ow 20-26str 70-75life 25+ lr - 300
+24fhr 10ow 20-26str 70-75life 25+ pr - 300
+24fhr 10ow 26-29str 75+ life 25+ cr - 400
+24fhr 10ow 26-29str 75+ life 25+ fr - 500
+24fhr 10ow 26-29str 75+ life 25+ lr - 750
+24fhr 10ow 26-29str 75+ life 25+ pr - 750
+24fhr 10ow 30str 75+ life 30 cr - 750
+24fhr 10ow 30str 75+ life 30 fr - 1000
+24fhr 10ow 30str 75+ life 30 lr - 1500
+24fhr 10ow 30str 75+ life 30 pr - 1500
+
+17. 1.08/1.09 Items
+
+5frw (plain) | 100-150
+5frw/11res | 2,500 - 3,000
+5frw/5@res | 2,500 - 3,000
+5frw/3max/20ar | 3,000 - 4,000
+Cruel Brouges | 14,000 fg
+Death Blazer | 50,000+ fg
+Brimstone Shanks | 40,000+ fg
+Soul Shank | 10,000 - 12,000 fg
+Gores | 25,000 fg
+Imp Shank | 1,000
+Grim Spurs | 4,500 - 5,500 fg
+Viper Tracks | 7500 - 10,000 fg
+Viper Blazers | 7,000 - 7,500 fg
+Water Walks | 6,000 fg
+Rune Slippers | 4,000 -5000 fg
+Bitter Brogues | 20,000+ fg
+Soul Spur | 2500 - 3500 fg
+HailStone Blazers | 3,000 - 3,500 fg
+Viper Trample | 4,500 fg
+Eagle Nails | 2,000 - 2,500
+Plague Blazer | 1,200 - 1,500 fg
+Armagedon Slippers - 6,000 fg
+Fletch | 4000 - 5,000 fg
+Storm Circlet | 7,500 - 10,000
+Bone Master 400 - 500
+cGrip | 400 - 500
+Gaze - 1,100 - 1,500 fg
+Arreats Face | 4000 - 5000 fg
+Named Valk | 35,000 - 40,000 fg (Depends on History, Named, and defense)
+UnNamed Valk | 40,000 - 50,000 fg (Depends on History, and defense)
+Windforce | 900 - 1,200 fg
+Gold Wrap | 500 - 1,000 fg
+Rune Lash | 500 - 750 fg
+Storm Shield | 1,000 - 1,600 fg
+Glyph Hands | 5,000 - 5,500 fg
+Cruel Hold - 5,500 fg
+
+18. Bugged Items
+
+Bugged Mana Small Charms | 6,000 - 8,000
+Bugged Tal Rashas | 60,000+ fg (Depends History)
+Zod bugged Chaos Claw | 40,000 - 50,000 (Depends History) 
+Zod bugged Barananer Star | 1000 fg
+Zod bugged Arkaines Valor | 10,000 - 40,000 +fg (Depends on ed & Skills)
+Zod bugged Arreats | 15,000 - 50,000 fg (depends on % ed)
+Zod bugged Bartucs Cut-Throat | 2000 - 3000 fg
+Zod bugged Gaze | 25,000 - 30,000 fg
+Zod bugged Hellslayer | 1000 fg
+Zod bugged Herald of Zakarum | 10,000 - 20,000 fg (Depends on % ed)
+
+19. Unperm Items
+
+3/20/20 | 10 - 15fg
+20/5 charm | 10 - 15 fg
+bMana (70mana|15life football) | 10 - 15 fg
+Bug Tal Rash Armor | 25 - 50 fg
+Valk 1.08 | 25 - 50 fg
+eBug .08 Valk | 25 - 50 fg
+Grim Spur | 25 - 50 fg
+Soul Shank | 25 - 50 fg
+Soul Spur | 25 - 50 fg
+Rune Slippers | 25 - 50 fg
+Bitter Brogue | 25 - 50 fg
+Viper Trample | 25 - 50 fg
+Highlords 1.08 | 25 - 50 fg
+Order Noose | 50 fg
+Storm Hide | 50 fg
+Anni 20/20/10 | 25 - 50 fg
+JSRoD 45 Res 20/20 Light | 25 -50 fg
+JMoD 20/20 Light | 25 - 50 fg
+Eth Bugged Shako | 50 - 100 fg
+Eth Bugged Lidless | 25 - 50 fg
+Eth Bugged Claw Fury or Chaos | 100 - 150 fg
+Eth Bugged LW Zerker | 25 - 50 fg
+Eth Bugged Valor 1os Sin / Barb / Pally / Nec / Zon | 50 - 100 fg
+Full Pvp Toons | 250 - 500
+
+20. Services
+
+1-60| 50 fg
+1-80 | 75 fg
+1-90 | 100 fg
+1-91 | 125 fg
+1-92 | 200 fg
+1-93 | 250 fg
+1-94 | 350 fg
+1-95 | 450 fg
+1-96 | 600 fg
+1-97 | 850 fg
+1-98 | 1000 - 1500 fg
+1-99 | 1500 - 2000 fg
+
+Socket quest | 5-10 fg
+Imbue quest | 5-10 fg
+Classic Rush | 10 - 20 fg
+gRush | 10 - 25 fg
+Bumper | 15 - 25 fg
+Stat/Skill quests | 15 - 20 fg
+All Quests | 20 - 25 fg
+All WPs | 10 - 15 fg
+All Rush WPs | 5 - 10 fg
+
+21. Misc
+
+Token | .25-1 fg
+Baal charm | 1 fg
+Organ Set | 2 - 5 fg
+40 pGems | 2 - 4 fg
+22/22/22 craft pack | 30-85 fg
+40 perfect amethysts | 5-10 fg
+40 perfect rubies | 5-10 fg
+40 crap jools | 5-10 fg

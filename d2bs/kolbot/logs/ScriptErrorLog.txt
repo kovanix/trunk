@@ -1,0 +1,321 @@
+[15:35:10] <Leecher> Error in DiabloHelper (diablohelper.js line 444): Player wait timed out (No leader portals found)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:444
+[15:40:27] <Leecher> Error in DiabloHelper (diablohelper.js line 444): Player wait timed out (No leader portals found)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:444
+[15:42:55] <Leecher> Error in DiabloHelper (diablohelper.js line 444): Player wait timed out (No leader portals found)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:444
+[16:24:19] <Leecher> Error in DiabloHelper (diablohelper.js line 227): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:476, @diablohelper.js:227
+[21:07:53] <Leader> Unexpected = at line 58 in EarlyPickit.nip
+[21:07:53] <Leader> Unexpected = at line 59 in EarlyPickit.nip
+[21:07:53] <Leader> Unexpected = at line 98 in EarlyPickit.nip
+[21:07:53] <Leader> Unexpected = at line 99 in EarlyPickit.nip
+[21:07:54] <Leader> Unexpected = at line 58 in EarlyPickit.nip
+[21:07:54] <Leader> Unexpected = at line 59 in EarlyPickit.nip
+[21:07:54] <Leader> Unexpected = at line 98 in EarlyPickit.nip
+[21:07:54] <Leader> Unexpected = at line 99 in EarlyPickit.nip
+[21:07:56] <Leecher> Unexpected = at line 58 in EarlyPickit.nip
+[21:07:56] <Leecher> Unexpected = at line 59 in EarlyPickit.nip
+[21:07:56] <Leecher> Unexpected = at line 98 in EarlyPickit.nip
+[21:07:56] <Leecher> Unexpected = at line 99 in EarlyPickit.nip
+[21:07:56] <Leecher> Unexpected = at line 58 in EarlyPickit.nip
+[21:07:56] <Leecher> Unexpected = at line 59 in EarlyPickit.nip
+[21:07:56] <Leecher> Unexpected = at line 98 in EarlyPickit.nip
+[21:07:56] <Leecher> Unexpected = at line 99 in EarlyPickit.nip
+[21:13:02] <Leader> Unexpected = at line 98 in EarlyPickit.nip
+[21:13:02] <Leader> Unexpected = at line 99 in EarlyPickit.nip
+[21:13:02] <Leader> Unexpected = at line 98 in EarlyPickit.nip
+[21:13:02] <Leader> Unexpected = at line 99 in EarlyPickit.nip
+[21:13:05] <Leecher> Unexpected = at line 98 in EarlyPickit.nip
+[21:13:05] <Leecher> Unexpected = at line 99 in EarlyPickit.nip
+[21:13:05] <Leecher> Unexpected = at line 98 in EarlyPickit.nip
+[21:13:05] <Leecher> Unexpected = at line 99 in EarlyPickit.nip
+[22:40:06] <Leader> Error in Diablo (diablo.js line 434): Failed to move to Chaos Sanctuary
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Diablo@diablo.js:434
+[22:40:16] <Leader> Error in Baal (baal.js line 208): Failed to move to Throne of Destruction.
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Baal@baal.js:208
+[22:52:59] <Leader> Error in Diablo (diablo.js line 434): Failed to move to Chaos Sanctuary
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Diablo@diablo.js:434
+[22:53:10] <Leader> Error in Baal (baal.js line 208): Failed to move to Throne of Destruction.
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Baal@baal.js:208
+[15:03:00] <Leader> Error in Baal (baal.js line 208): Failed to move to Throne of Destruction.
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Baal@baal.js:208
+[23:02:51] <Leader> Error in Baal (baal.js line 208): Failed to move to Throne of Destruction.
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Baal@baal.js:208
+[10:56:37] <Leader> Error in Baal (baal.js line 208): Failed to move to Throne of Destruction.
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Baal@baal.js:208
+[00:39:51] <Leecher1> Error in BaalHelper (baalhelper.js line 243): Player wait timed out (No leader portals found)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:243
+[22:45:20] <Leecher1> Error in BaalHelper (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:174, useWaypoint@pather.js:992
+[02:24:43] <Leader> Error in Baal (baal.js line 208): Failed to move to Throne of Destruction.
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Baal@baal.js:208
+[18:04:06] <Leader> Error in Diablo (diablo.js line 434): Failed to move to Chaos Sanctuary
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Diablo@diablo.js:434
+[18:04:17] <Leader> Error in Baal (baal.js line 208): Failed to move to Throne of Destruction.
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Baal@baal.js:208
+[04:37:05] <LeecherSo> Error in DiabloHelper (diablohelper.js line 227): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:476, @diablohelper.js:227
+[04:37:05] <LeaderSo> Error in Diablo (diablo.js line 326): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Diablo@diablo.js:486, @diablo.js:326
+[12:03:21] <LeecherSo1> Error in DiabloHelper (diablohelper.js line 444): Player wait timed out (No leader portals found)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:444
+[12:05:30] <LeecherSo1> Error in BaalHelper (baalhelper.js line 243): Player wait timed out (No leader portals found)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:243
+[15:12:56] <LeecherSo1> Error in DiabloHelper (diablohelper.js line 227): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:476, @diablohelper.js:227
+[15:12:59] <LeecherSo> Error in DiabloHelper (diablohelper.js line 227): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:476, @diablohelper.js:227
+[07:44:47] <LeecherSo> Error in BaalHelper (baalhelper.js line 243): Player wait timed out (No leader portals found)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:243
+[07:45:03] <LeecherSo1> Error in BaalHelper (baalhelper.js line 243): Player wait timed out (No leader portals found)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:243
+[07:45:33] <LeaderSo> Error in Baal (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Baal@baal.js:200, useWaypoint@pather.js:992
+[15:51:55] <LeecherSo1> Error in DiabloHelper (diablohelper.js line 227): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:476, @diablohelper.js:227
+[15:51:55] <LeecherSo> Error in DiabloHelper (diablohelper.js line 227): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:476, @diablohelper.js:227
+[16:43:08] <LeecherSo> Error in DiabloHelper (diablohelper.js line 227): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:476, @diablohelper.js:227
+[16:43:08] <LeecherSo1> Error in DiabloHelper (diablohelper.js line 227): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:476, @diablohelper.js:227
+[17:53:36] <LeecherSo> Error in BaalHelper (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:174, useWaypoint@pather.js:992
+[10:13:54] <EastLeecher> NIP file doesn't exist: pickit/EarlyLadderPickit.nip
+[10:13:55] <EastLeecher1> NIP file doesn't exist: pickit/EarlyLadderPickit.nip
+[10:13:58] <EastLeecher2> NIP file doesn't exist: pickit/EarlyLadderPickit.nip
+[13:29:05] <EastLeecher> Error in Follower (pather.js line 808): useUnit: Unit not found. ID: 49
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Follower@follower.js:698, Pather.moveToExit@pather.js:634, Pather.useUnit@pather.js:808
+[16:32:09] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[17:51:41] <EastLeech1> Error in BaalHelper (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:174, useWaypoint@pather.js:992
+[19:41:24] <EastLeech1> Error in DiabloHelper (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:396, useWaypoint@pather.js:992
+[19:44:03] <EastLeech1> Error in BaalHelper (town.js line 2180): Town.goToTown: Failed use WP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:172, Town.goToTown@town.js:2180
+[20:36:52] <EastLeech2> Error in BaalHelper (baalhelper.js line 243): Player wait timed out (No leader portals found)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:243
+[20:59:44] <EastLeech2> Error in BaalHelper (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:174, useWaypoint@pather.js:992
+[21:10:13] <EastLeech1> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[22:31:29] <EastLeech2> Error in MFHelper (town.js line 2180): Town.goToTown: Failed use WP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, MFHelper@mfhelper.js:170, Town.goToTown@town.js:2180
+[09:00:25] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[09:18:40] <EastLeech> Error in BaalHelper (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:174, useWaypoint@pather.js:992
+[20:09:19] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[21:59:18] <EastLeech1> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[23:28:54] <EastLeech2> Error in BaalHelper (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:174, useWaypoint@pather.js:992
+[00:55:34] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[01:21:46] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[02:25:29] <EastLeech> Error in BaalHelper (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:174, useWaypoint@pather.js:992
+[03:35:38] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[19:55:01] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[21:26:16] <EastLead> Error in Duriel (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Duriel@duriel.js:48, useWaypoint@pather.js:992
+[21:28:41] <EastLead> Error in Mephisto (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mephisto@mephisto.js:134, useWaypoint@pather.js:992
+[21:31:15] <EastLead> Error in Diablo (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Diablo@diablo.js:426, useWaypoint@pather.js:992
+[21:33:53] <EastLead> Error in Baal (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Baal@baal.js:200, useWaypoint@pather.js:992
+[22:10:17] <EastLeech2> Error in MFHelper (town.js line 2180): Town.goToTown: Failed use WP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, MFHelper@mfhelper.js:170, Town.goToTown@town.js:2180
+[22:10:21] <EastLeech2> Error in DiabloHelper (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:396, useWaypoint@pather.js:992
+[22:10:26] <EastLeech2> Error in BaalHelper (town.js line 2180): Town.goToTown: Failed use WP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:172, Town.goToTown@town.js:2180
+[22:36:01] <EastLeech> Error in MFHelper (town.js line 2164): Town.goToTown: Failed to take TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, MFHelper@mfhelper.js:213, Town.goToTown@town.js:2164
+[22:36:32] <EastLeech> Error in DiabloHelper (town.js line 2164): Town.goToTown: Failed to take TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2164
+[22:37:03] <EastLeech> Error in BaalHelper (town.js line 2164): Town.goToTown: Failed to take TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2164
+[03:11:07] <EastLeech> Error in BaalHelper (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:174, useWaypoint@pather.js:992
+[03:16:08] <EastLead> Error in Mephisto (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mephisto@mephisto.js:134, useWaypoint@pather.js:992
+[06:33:44] <EastLeech2> Error in DiabloHelper (diablohelper.js line 227): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:476, @diablohelper.js:227
+[06:34:36] <EastLeech2> Error in BaalHelper (town.js line 2164): Town.goToTown: Failed to take TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2164
+[08:02:35] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[08:17:18] <EastLeech2> Error in DiabloHelper (diablohelper.js line 227): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:476, @diablohelper.js:227
+[10:35:59] <EastLead> Error in Diablo (diablo.js line 326): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Diablo@diablo.js:486, @diablo.js:326
+[10:36:00] <EastLeech1> Error in DiabloHelper (diablohelper.js line 227): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:476, @diablohelper.js:227
+[10:36:02] <EastLeech> Error in DiabloHelper (diablohelper.js line 227): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:476, @diablohelper.js:227
+[10:36:04] <EastLeech2> Error in DiabloHelper (diablohelper.js line 227): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:476, @diablohelper.js:227
+[11:07:38] <EastLeech> Error in MFHelper (town.js line 2164): Town.goToTown: Failed to take TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, MFHelper@mfhelper.js:213, Town.goToTown@town.js:2164
+[11:08:09] <EastLeech> Error in DiabloHelper (town.js line 2164): Town.goToTown: Failed to take TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2164
+[11:08:40] <EastLeech> Error in BaalHelper (town.js line 2164): Town.goToTown: Failed to take TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2164
+[15:39:47] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[15:45:23] <EastLeech1> Error in DiabloHelper (diablohelper.js line 227): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:476, @diablohelper.js:227
+[15:45:25] <EastLead> Error in Diablo (diablo.js line 326): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Diablo@diablo.js:486, @diablo.js:326
+[15:45:30] <EastLeech> Error in DiabloHelper (diablohelper.js line 227): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:476, @diablohelper.js:227
+[16:59:45] <EastLead> Error in Mephisto (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Mephisto@mephisto.js:134, useWaypoint@pather.js:992
+[17:02:54] <EastLead> Error in Diablo (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Diablo@diablo.js:426, useWaypoint@pather.js:992
+[17:06:00] <EastLead> Error in Baal (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Baal@baal.js:200, useWaypoint@pather.js:992
+[17:47:11] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[18:03:54] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[22:40:21] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[00:31:27] <EastLeech1> Error in DiabloHelper (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:396, useWaypoint@pather.js:992
+[02:00:57] <EastLead> Error in Diablo (diablo.js line 231): Failed to kill de Seis
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Diablo@diablo.js:466, @diablo.js:231
+[02:00:57] <EastLead> Error in Baal (town.js line 2160): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2160
+[07:39:14] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[07:51:48] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[08:23:36] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[10:27:45] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[11:36:51] <EastLeech2> Error in BaalHelper (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:174, useWaypoint@pather.js:992
+[14:17:28] <EastLeech> Error in BaalHelper (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:174, useWaypoint@pather.js:992
+[17:10:58] <EastLead> Error in Radament (attack.js line 214): Failed to kill Radament
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Radament@radament.js:16, Attack.kill@attack.js:214
+[19:22:01] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[23:16:15] <EastLead> Error in Diablo (diablo.js line 242): Failed to open Infector seals.
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Diablo@diablo.js:468, @diablo.js:242
+[21:41:59] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[23:55:15] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[00:00:18] <EastLeech2> Error in BaalHelper (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:174, useWaypoint@pather.js:992
+[00:57:32] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[01:31:49] <EastLeech2> Error in BaalHelper (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:174, useWaypoint@pather.js:992
+[01:38:02] <EastLeech2> Error in BaalHelper (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:174, useWaypoint@pather.js:992
+[04:02:52] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[08:57:48] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[09:21:07] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[09:53:41] <EastLead> Unknown stat: coldmastery==2 File: EarlyPickit.nip Line: 719
+[09:53:42] <EastLead> Unknown stat: coldmastery==2 File: EarlyPickit.nip Line: 719
+[09:53:42] <EastLead> Unknown stat: coldmastery==2 File: EarlyPickit.nip Line: 719
+[09:53:45] <EastLeech> Unknown stat: coldmastery==2 File: EarlyPickit.nip Line: 719
+[09:53:45] <EastLeech> Unknown stat: coldmastery==2 File: EarlyPickit.nip Line: 719
+[09:53:47] <EastLeech1> Unknown stat: coldmastery==2 File: EarlyPickit.nip Line: 719
+[09:53:47] <EastLeech1> Unknown stat: coldmastery==2 File: EarlyPickit.nip Line: 719
+[09:53:47] <EastLeech1> Unknown stat: coldmastery==2 File: EarlyPickit.nip Line: 719
+[09:53:49] <EastLeech2> Unknown stat: coldmastery==2 File: EarlyPickit.nip Line: 719
+[09:53:49] <EastLeech2> Unknown stat: coldmastery==2 File: EarlyPickit.nip Line: 719
+[09:59:34] <EastLead> Unknown stat: lightningmastery==2 File: EarlyPickit.nip Line: 719
+[09:59:35] <EastLead> Unknown stat: lightningmastery==2 File: EarlyPickit.nip Line: 719
+[09:59:35] <EastLead> Unknown stat: lightningmastery==2 File: EarlyPickit.nip Line: 719
+[09:59:38] <EastLeech> Unknown stat: lightningmastery==2 File: EarlyPickit.nip Line: 719
+[09:59:38] <EastLeech> Unknown stat: lightningmastery==2 File: EarlyPickit.nip Line: 719
+[09:59:40] <EastLeech1> Unknown stat: lightningmastery==2 File: EarlyPickit.nip Line: 719
+[09:59:40] <EastLeech1> Unknown stat: lightningmastery==2 File: EarlyPickit.nip Line: 719
+[09:59:40] <EastLeech1> Unknown stat: lightningmastery==2 File: EarlyPickit.nip Line: 719
+[09:59:42] <EastLeech2> Unknown stat: lightningmastery==2 File: EarlyPickit.nip Line: 719
+[09:59:42] <EastLeech2> Unknown stat: lightningmastery==2 File: EarlyPickit.nip Line: 719
+[10:05:38] <EastLead> Unknown stat: coldskills==2 File: EarlyPickit.nip Line: 719
+[10:05:38] <EastLead> Unknown stat: coldskills==2 File: EarlyPickit.nip Line: 719
+[10:05:38] <EastLead> Unknown stat: coldskills==2 File: EarlyPickit.nip Line: 719
+[10:05:42] <EastLeech> Unknown stat: coldskills==2 File: EarlyPickit.nip Line: 719
+[10:05:42] <EastLeech> Unknown stat: coldskills==2 File: EarlyPickit.nip Line: 719
+[10:05:44] <EastLeech1> Unknown stat: coldskills==2 File: EarlyPickit.nip Line: 719
+[10:05:44] <EastLeech1> Unknown stat: coldskills==2 File: EarlyPickit.nip Line: 719
+[10:05:44] <EastLeech1> Unknown stat: coldskills==2 File: EarlyPickit.nip Line: 719
+[10:05:46] <EastLeech2> Unknown stat: coldskills==2 File: EarlyPickit.nip Line: 719
+[10:05:46] <EastLeech2> Unknown stat: coldskills==2 File: EarlyPickit.nip Line: 719
+[10:17:21] <EastLead> Unknown stat: skillcoldmastery==2 File: EarlyPickit.nip Line: 719
+[10:17:21] <EastLead> Unknown stat: skillcoldmastery==2 File: EarlyPickit.nip Line: 719
+[10:17:21] <EastLead> Unknown stat: skillcoldmastery==2 File: EarlyPickit.nip Line: 719
+[10:17:24] <EastLeech> Unknown stat: skillcoldmastery==2 File: EarlyPickit.nip Line: 719
+[10:17:25] <EastLeech> Unknown stat: skillcoldmastery==2 File: EarlyPickit.nip Line: 719
+[10:17:26] <EastLeech1> Unknown stat: skillcoldmastery==2 File: EarlyPickit.nip Line: 719
+[10:17:26] <EastLeech1> Unknown stat: skillcoldmastery==2 File: EarlyPickit.nip Line: 719
+[10:17:26] <EastLeech1> Unknown stat: skillcoldmastery==2 File: EarlyPickit.nip Line: 719
+[10:17:28] <EastLeech2> Unknown stat: skillcoldmastery==2 File: EarlyPickit.nip Line: 719
+[10:17:28] <EastLeech2> Unknown stat: skillcoldmastery==2 File: EarlyPickit.nip Line: 719
+[10:34:44] <EastLead> Unknown stat: coldskilltab==2 File: EarlyPickit.nip Line: 719
+[10:34:45] <EastLead> Unknown stat: coldskilltab==2 File: EarlyPickit.nip Line: 719
+[10:34:45] <EastLead> Unknown stat: coldskilltab==2 File: EarlyPickit.nip Line: 719
+[10:34:49] <EastLeech> Unknown stat: coldskilltab==2 File: EarlyPickit.nip Line: 719
+[10:34:49] <EastLeech> Unknown stat: coldskilltab==2 File: EarlyPickit.nip Line: 719
+[10:34:50] <EastLeech1> Unknown stat: coldskilltab==2 File: EarlyPickit.nip Line: 719
+[10:34:50] <EastLeech1> Unknown stat: coldskilltab==2 File: EarlyPickit.nip Line: 719
+[10:34:50] <EastLeech1> Unknown stat: coldskilltab==2 File: EarlyPickit.nip Line: 719
+[10:34:52] <EastLeech2> Unknown stat: coldskilltab==2 File: EarlyPickit.nip Line: 719
+[10:34:53] <EastLeech2> Unknown stat: coldskilltab==2 File: EarlyPickit.nip Line: 719
+[10:58:50] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[11:56:24] <EastLead> Error in Baal (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Baal@baal.js:200, useWaypoint@pather.js:992
+[19:40:07] <EastLeech2> Error in BaalHelper (town.js line 2160): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:109, Town.goToTown@town.js:2160
+[21:34:26] <EastLeech> Error in DiabloHelper (diablohelper.js line 227): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:476, @diablohelper.js:227
+[21:42:45] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[21:48:21] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[05:10:21] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[06:36:09] <EastLead> Error in Baal (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Baal@baal.js:200, useWaypoint@pather.js:992
+[07:22:37] <EastLead> Error in Baal (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Baal@baal.js:200, useWaypoint@pather.js:992
+[09:26:21] <EastLeech> Error in BaalHelper (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:174, useWaypoint@pather.js:992
+[09:28:36] <EastLeech2> Error in BaalHelper (attack.js line 214): Failed to kill Baal (doAttack failed)
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, BaalHelper@baalhelper.js:343, Attack.kill@attack.js:214
+[13:57:45] <EastLeech2> Error in DiabloHelper (diablohelper.js line 227): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:476, @diablohelper.js:227
+[14:32:45] <EastLeech1> Error in DiabloHelper (diablohelper.js line 227): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:476, @diablohelper.js:227
+[14:32:46] <EastLead> Error in Diablo (diablo.js line 326): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Diablo@diablo.js:486, @diablo.js:326
+[14:32:49] <EastLeech> Error in DiabloHelper (diablohelper.js line 227): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:476, @diablohelper.js:227
+[14:33:13] <EastLeech2> Error in DiabloHelper (diablohelper.js line 227): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:476, @diablohelper.js:227
+[01:09:30] <EastLead> Error in Diablo (diablo.js line 231): Failed to kill de Seis
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Diablo@diablo.js:466, @diablo.js:231
+[01:45:13] <EastLead> Error in Baal (pather.js line 992): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, Baal@baal.js:200, useWaypoint@pather.js:992
+[03:17:46] <EastLeech1> Error in DiabloHelper (diablohelper.js line 227): Diablo not found
+Stack: main@default.dbj:174, Loader.init@loader.js:14, Loader.loadScripts@loader.js:124, DiabloHelper@diablohelper.js:476, @diablohelper.js:227

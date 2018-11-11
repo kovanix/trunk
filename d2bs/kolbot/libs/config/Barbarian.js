@@ -476,6 +476,10 @@ function LoadConfig() {
 	Config.Wereform = false; // 0 / false - don't shapeshift, 1 / "Werewolf" - change to werewolf, 2 / "Werebear" - change to werebear
 
 	// Class specific config
+<<<<<<< HEAD
+=======
+	Config.BOSwitch = 0; // Precast weapon slot - 0 = slot I, 1 = slot II
+>>>>>>> parent of 89f2306... Revert "Initial commit"
 	Config.FindItem = false; // Use Find Item skill on corpses after clearing.
 	Config.FindItemSwitch = 0; // Find Item weapon slot - 0 = slot I, 1 = slot II
 

@@ -1,8 +1,0 @@
-Key Order~
-1) T,D,H Order in Cube = Baal Eyes
-2) H,T,D Order in Cube = MEPH BRAIN
-3) D,H,T Order in Cube = Diablo Horn
-
-T=Terror
-H=Hate
-D=Destruction

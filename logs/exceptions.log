@@ -35,3 +35,42 @@ Meebey.SmartIrc4net.NotConnectedException: Erreur de l'application.
    à D2Bot.IRCProfile.StartIRC()
 >>>>>>> parent of 89f2306... Revert "Initial commit"
 
+11/11/2018 14:21
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   à Newtonsoft.Json.JsonTextReader.ParseValue()
+   à Newtonsoft.Json.JsonTextReader.ReadInternal()
+   à Newtonsoft.Json.JsonTextReader.Read()
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   à Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   à Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   à Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   à D2Bot.Program.LoadProfile(String file)
+   à D2Bot.Program.Main()
+
+11/11/2018 14:22
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   à Newtonsoft.Json.JsonTextReader.ParseValue()
+   à Newtonsoft.Json.JsonTextReader.ReadInternal()
+   à Newtonsoft.Json.JsonTextReader.Read()
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   à Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   à Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   à Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   à D2Bot.Program.LoadProfile(String file)
+   à D2Bot.Program.Main()
+
+11/11/2018 14:23
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   à Newtonsoft.Json.JsonTextReader.ParseValue()
+   à Newtonsoft.Json.JsonTextReader.ReadInternal()
+   à Newtonsoft.Json.JsonTextReader.Read()
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   à Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   à Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   à Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   à Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   à D2Bot.Program.LoadProfile(String file)
+   à D2Bot.Program.Main()
+

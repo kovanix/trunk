@@ -1,0 +1,1010 @@
+[10/21/18 14:05:10] D2BS 5108: D2BS Engine startup complete. 1.5.1869
+[10/21/18 16:36:12] D2BS 5108: D2BS Shutdown complete.
+[10/21/18 16:36:40] D2BS 5216: D2BS Engine startup complete. 1.5.1869
+[10/21/18 16:59:36] D2BS 5216: D2BS Shutdown complete.
+[10/21/18 17:01:21] D2BS 6680: D2BS Engine startup complete. 1.5.1869
+[10/21/18 17:02:16] D2BS 3188: D2BS Engine startup complete. 1.5.1869
+[10/21/18 17:02:18] D2BS 5636: D2BS Engine startup complete. 1.5.1869
+[10/21/18 17:03:44] D2BS 6680: D2BS Shutdown complete.
+[10/21/18 17:03:44] D2BS 3188: D2BS Shutdown complete.
+[10/21/18 17:03:44] D2BS 5636: D2BS Shutdown complete.
+[10/22/18 16:08:59] D2BS 4932: D2BS Engine startup complete. 1.5.1869
+[10/22/18 16:13:43] D2BS 4932: D2BS Shutdown complete.
+[10/23/18 14:46:59] D2BS 2836: D2BS Engine startup complete. 1.5.1869
+[10/23/18 14:46:59] D2BS 2836: test
+[10/23/18 14:55:03] D2BS 2836: D2BS Shutdown complete.
+[10/23/18 14:55:53] D2BS 6764: D2BS Engine startup complete. 1.5.1869
+[10/23/18 15:01:54] D2BS 6764: D2BS Shutdown complete.
+[10/23/18 15:32:20] D2BS 6860: D2BS Engine startup complete. 1.5.1869
+[10/23/18 15:32:20] D2BS 6860: Leecher
+[10/23/18 15:32:28] D2BS 5192: D2BS Engine startup complete. 1.5.1869
+[10/23/18 15:32:28] D2BS 5192: Leader
+[10/23/18 23:44:58] D2BS 7460: D2BS Engine startup complete. 1.5.1869
+[10/23/18 23:51:02] D2BS 7460: D2BS Shutdown complete.
+[10/24/18 00:52:13] D2BS 5748: D2BS Engine startup complete. 1.5.1869
+[10/24/18 00:53:19] D2BS 7468: D2BS Engine startup complete. 1.5.1869
+[10/24/18 01:27:50] D2BS 5748: D2BS Shutdown complete.
+[10/24/18 01:27:52] D2BS 7468: D2BS Shutdown complete.
+[10/24/18 01:35:00] D2BS 6860: D2BS Shutdown complete.
+[10/24/18 01:35:00] D2BS 5192: D2BS Shutdown complete.
+[10/24/18 11:22:47] D2BS 5016: D2BS Engine startup complete. 1.5.1869
+[10/24/18 11:22:47] D2BS 5016: Leecher1
+[10/24/18 11:22:48] D2BS 2472: D2BS Engine startup complete. 1.5.1869
+[10/24/18 11:22:48] D2BS 2472: Leecher
+[10/24/18 11:22:50] D2BS 5400: D2BS Engine startup complete. 1.5.1869
+[10/24/18 11:22:50] D2BS 5400: Leader
+[10/24/18 11:56:37] D2BS 2472: Crash File: BlizzardError/2018-10-24 11.56.37/Crash.txt
+
+[10/24/18 11:56:37] D2BS 2472: D2BS Shutdown complete.
+[10/24/18 11:56:39] D2BS 5820: D2BS Engine startup complete. 1.5.1869
+[10/24/18 11:56:39] D2BS 5820: Leecher
+[10/24/18 11:56:50] D2BS 5400: Crash File: BlizzardError/2018-10-24 11.56.50/Crash.txt
+
+[10/24/18 11:56:50] D2BS 5400: D2BS Shutdown complete.
+[10/24/18 11:56:53] D2BS 2840: D2BS Engine startup complete. 1.5.1869
+[10/24/18 11:56:53] D2BS 2840: Leader
+[10/24/18 21:12:45] D2BS 5016: Crash File: BlizzardError/2018-10-24 21.12.45/Crash.txt
+
+[10/24/18 21:12:45] D2BS 5016: D2BS Shutdown complete.
+[10/24/18 21:12:47] D2BS 7476: D2BS Engine startup complete. 1.5.1869
+[10/24/18 21:12:47] D2BS 7476: Leecher1
+[10/24/18 23:46:18] D2BS 7476: D2BS Shutdown complete.
+[10/25/18 09:16:18] D2BS 3388: D2BS Engine startup complete. 1.5.1869
+[10/25/18 09:16:19] D2BS 3388: Leecher1
+[10/25/18 09:16:21] D2BS 4624: D2BS Engine startup complete. 1.5.1869
+[10/25/18 09:16:21] D2BS 4624: Leecher
+[10/25/18 09:16:33] D2BS 3232: D2BS Engine startup complete. 1.5.1869
+[10/25/18 09:16:33] D2BS 3232: Leader
+[10/25/18 12:26:01] D2BS 6736: D2BS Engine startup complete. 1.5.1869
+[10/25/18 12:52:53] D2BS 3388: Crash File: BlizzardError/2018-10-25 12.52.53/Crash.txt
+
+[10/25/18 12:52:53] D2BS 3388: D2BS Shutdown complete.
+[10/25/18 12:52:55] D2BS 5276: D2BS Engine startup complete. 1.5.1869
+[10/25/18 12:52:55] D2BS 5276: Leecher1
+[10/25/18 14:35:34] D2BS 4624: D2BS Shutdown complete.
+[10/25/18 14:56:50] D2BS 5024: D2BS Engine startup complete. 1.5.1869
+[10/25/18 14:56:50] D2BS 5024: Leecher1
+[10/25/18 14:56:52] D2BS 2432: D2BS Engine startup complete. 1.5.1869
+[10/25/18 14:56:52] D2BS 2432: Leecher
+[10/25/18 14:56:54] D2BS 7088: D2BS Engine startup complete. 1.5.1869
+[10/25/18 14:56:54] D2BS 7088: Leader
+[10/25/18 18:50:38] D2BS 5024: Crash File: BlizzardError/2018-10-25 18.50.38/Crash.txt
+
+[10/25/18 18:50:38] D2BS 5024: D2BS Shutdown complete.
+[10/25/18 18:50:40] D2BS 6496: D2BS Engine startup complete. 1.5.1869
+[10/25/18 18:50:40] D2BS 6496: Leecher1
+[10/25/18 18:59:13] D2BS 6808: D2BS Engine startup complete. 1.5.1869
+[10/25/18 19:06:02] D2BS 6808: D2BS Shutdown complete.
+[10/25/18 21:18:16] D2BS 6496: Crash File: BlizzardError/2018-10-25 21.18.16/Crash.txt
+
+[10/25/18 21:18:16] D2BS 6496: D2BS Shutdown complete.
+[10/25/18 21:18:17] D2BS 3540: D2BS Engine startup complete. 1.5.1869
+[10/25/18 21:18:17] D2BS 3540: Leecher1
+[10/26/18 00:40:42] D2BS 7088: D2BS Shutdown complete.
+[10/26/18 00:40:42] D2BS 2432: D2BS Shutdown complete.
+[10/26/18 00:40:42] D2BS 3540: D2BS Shutdown complete.
+[10/26/18 08:29:57] D2BS 1156: D2BS Engine startup complete. 1.5.1869
+[10/26/18 08:29:57] D2BS 1156: Leecher
+[10/26/18 08:29:57] D2BS 688: D2BS Engine startup complete. 1.5.1869
+[10/26/18 08:29:57] D2BS 688: Leecher1
+[10/26/18 08:29:57] D2BS 4788: D2BS Engine startup complete. 1.5.1869
+[10/26/18 08:29:58] D2BS 4788: Leader
+[10/26/18 09:01:18] D2BS 4608: D2BS Engine startup complete. 1.5.1869
+[10/26/18 09:32:39] D2BS 4608: D2BS Shutdown complete.
+[10/26/18 09:32:47] D2BS 5824: D2BS Engine startup complete. 1.5.1869
+[10/26/18 12:08:10] D2BS 5824: D2BS Shutdown complete.
+[10/26/18 13:23:35] D2BS 688: Crash File: BlizzardError/2018-10-26 13.23.34/Crash.txt
+
+[10/26/18 13:23:35] D2BS 688: D2BS Shutdown complete.
+[10/26/18 13:23:36] D2BS 5876: D2BS Engine startup complete. 1.5.1869
+[10/26/18 13:23:37] D2BS 5876: Leecher1
+[10/26/18 15:30:59] D2BS 5876: D2BS Shutdown complete.
+[10/26/18 15:30:59] D2BS 4788: D2BS Shutdown complete.
+[10/26/18 15:30:59] D2BS 1156: D2BS Shutdown complete.
+[10/26/18 18:38:01] D2BS 576: D2BS Engine startup complete. 1.5.1869
+[10/26/18 18:38:01] D2BS 576: Leecher1
+[10/26/18 18:38:02] D2BS 4540: D2BS Engine startup complete. 1.5.1869
+[10/26/18 18:38:02] D2BS 4540: Leecher
+[10/26/18 18:38:04] D2BS 3804: D2BS Engine startup complete. 1.5.1869
+[10/26/18 18:38:04] D2BS 3804: Leader
+[10/26/18 22:01:35] D2BS 576: Crash File: BlizzardError/2018-10-26 22.01.35/Crash.txt
+
+[10/26/18 22:01:35] D2BS 576: D2BS Shutdown complete.
+[10/26/18 22:01:37] D2BS 5460: D2BS Engine startup complete. 1.5.1869
+[10/26/18 22:01:37] D2BS 5460: Leecher1
+[10/26/18 22:04:54] D2BS 3804: D2BS Shutdown complete.
+[10/26/18 22:04:54] D2BS 5460: D2BS Shutdown complete.
+[10/26/18 22:04:54] D2BS 4540: D2BS Shutdown complete.
+[10/26/18 22:28:21] D2BS 1088: D2BS Engine startup complete. 1.5.1869
+[10/26/18 22:28:21] D2BS 1088: Leecher1
+[10/26/18 22:28:23] D2BS 5940: D2BS Engine startup complete. 1.5.1869
+[10/26/18 22:28:23] D2BS 5940: Leecher
+[10/26/18 22:28:25] D2BS 3600: D2BS Engine startup complete. 1.5.1869
+[10/26/18 22:28:25] D2BS 3600: Leader
+[10/26/18 23:28:27] D2BS 6484: D2BS Engine startup complete. 1.5.1869
+[10/26/18 23:30:25] D2BS 6484: D2BS Shutdown complete.
+[10/27/18 00:28:21] D2BS 3600: Crash File: BlizzardError/2018-10-27 00.28.20/Crash.txt
+
+[10/27/18 00:28:21] D2BS 3600: D2BS Shutdown complete.
+[10/27/18 00:28:22] D2BS 5692: D2BS Engine startup complete. 1.5.1869
+[10/27/18 00:28:22] D2BS 5692: Leader
+[10/27/18 10:28:21] D2BS 10940: D2BS Engine startup complete. 1.5.1869
+[10/27/18 12:17:13] D2BS 10940: D2BS Shutdown complete.
+[10/27/18 13:05:48] D2BS 5940: D2BS Shutdown complete.
+[10/27/18 13:05:48] D2BS 1088: D2BS Shutdown complete.
+[10/27/18 13:05:48] D2BS 5692: D2BS Shutdown complete.
+[10/27/18 16:00:45] D2BS 6724: D2BS Engine startup complete. 1.5.1869
+[10/27/18 16:00:46] D2BS 6724: Leecher1
+[10/27/18 16:00:46] D2BS 1500: D2BS Engine startup complete. 1.5.1869
+[10/27/18 16:00:46] D2BS 1500: Leecher
+[10/27/18 16:00:48] D2BS 5696: D2BS Engine startup complete. 1.5.1869
+[10/27/18 16:00:48] D2BS 5696: Leader
+[10/27/18 16:36:28] D2BS 2024: D2BS Engine startup complete. 1.5.1869
+[10/27/18 16:51:03] D2BS 2024: D2BS Shutdown complete.
+[10/27/18 17:01:50] D2BS 4372: D2BS Engine startup complete. 1.5.1869
+[10/27/18 18:48:20] D2BS 4372: D2BS Shutdown complete.
+[10/27/18 18:49:23] D2BS 5696: D2BS Shutdown complete.
+[10/27/18 18:49:23] D2BS 6724: D2BS Shutdown complete.
+[10/27/18 18:49:23] D2BS 1500: D2BS Shutdown complete.
+[10/27/18 22:10:13] D2BS 4656: D2BS Engine startup complete. 1.5.1869
+[10/27/18 22:10:13] D2BS 4656: Leecher
+[10/27/18 22:10:15] D2BS 3384: D2BS Engine startup complete. 1.5.1869
+[10/27/18 22:10:15] D2BS 3384: Leader
+[10/28/18 00:16:07] D2BS 3384: D2BS Shutdown complete.
+[10/28/18 00:16:10] D2BS 4656: D2BS Shutdown complete.
+[10/28/18 00:16:38] D2BS 4460: D2BS Engine startup complete. 1.5.1869
+[10/28/18 00:16:38] D2BS 4460: LeecherSo
+[10/28/18 00:16:46] D2BS 4460: D2BS Shutdown complete.
+[10/28/18 00:17:02] D2BS 2836: D2BS Engine startup complete. 1.5.1869
+[10/28/18 00:17:02] D2BS 2836: LeecherSo
+[10/28/18 00:17:24] D2BS 4788: D2BS Engine startup complete. 1.5.1869
+[10/28/18 00:17:24] D2BS 4788: LeaderSo
+[10/28/18 10:28:20] D2BS 8220: D2BS Engine startup complete. 1.5.1869
+[10/28/18 10:56:30] D2BS 8220: D2BS Shutdown complete.
+[10/28/18 11:02:01] D2BS 7508: D2BS Engine startup complete. 1.5.1869
+[10/28/18 11:02:01] D2BS 7508: LeecherSo1
+[10/28/18 13:27:58] D2BS 9208: D2BS Engine startup complete. 1.5.1869
+[10/28/18 13:59:01] D2BS 9208: D2BS Shutdown complete.
+[10/28/18 20:29:44] D2BS 12304: D2BS Engine startup complete. 1.5.1869
+[10/28/18 20:29:44] D2BS 12304: kovax-baba
+[10/28/18 20:29:46] D2BS 13044: D2BS Engine startup complete. 1.5.1869
+[10/28/18 20:34:33] D2BS 12304: D2BS Shutdown complete.
+[10/28/18 20:34:59] D2BS 1168: D2BS Engine startup complete. 1.5.1869
+[10/28/18 20:34:59] D2BS 1168: kovax-ba
+[10/28/18 20:43:26] D2BS 13044: D2BS Shutdown complete.
+[10/28/18 20:43:26] D2BS 1168: D2BS Shutdown complete.
+[10/28/18 20:49:29] D2BS 2520: D2BS Engine startup complete. 1.5.1869
+[10/28/18 20:49:29] D2BS 2520: LeecherSo1
+[10/28/18 20:49:31] D2BS 5288: D2BS Engine startup complete. 1.5.1869
+[10/28/18 20:49:31] D2BS 5288: LeecherSo
+[10/28/18 20:49:34] D2BS 5424: D2BS Engine startup complete. 1.5.1869
+[10/28/18 20:49:34] D2BS 5424: LeaderSo
+[10/28/18 23:15:16] D2BS 2520: D2BS Shutdown complete.
+[10/28/18 23:15:17] D2BS 5288: D2BS Shutdown complete.
+[10/28/18 23:15:17] D2BS 5424: D2BS Shutdown complete.
+[10/29/18 09:08:41] D2BS 3988: D2BS Engine startup complete. 1.5.1869
+[10/29/18 09:10:11] D2BS 4948: D2BS Engine startup complete. 1.5.1869
+[10/29/18 09:12:56] D2BS 4784: D2BS Engine startup complete. 1.5.1869
+[10/29/18 09:42:56] D2BS 4784: D2BS Shutdown complete.
+[10/29/18 10:19:30] D2BS 3988: D2BS Shutdown complete.
+[10/29/18 10:19:37] D2BS 1696: D2BS Engine startup complete. 1.5.1869
+[10/29/18 10:19:37] D2BS 1696: LeecherSo1
+[10/29/18 10:19:40] D2BS 3768: D2BS Engine startup complete. 1.5.1869
+[10/29/18 10:19:40] D2BS 3768: LeecherSo
+[10/29/18 10:19:51] D2BS 2160: D2BS Engine startup complete. 1.5.1869
+[10/29/18 10:19:51] D2BS 2160: LeaderSo
+[10/29/18 11:24:34] D2BS 3768: D2BS Shutdown complete.
+[10/29/18 11:24:34] D2BS 2160: D2BS Shutdown complete.
+[10/29/18 11:24:34] D2BS 1696: D2BS Shutdown complete.
+[10/29/18 11:27:07] D2BS 6600: D2BS Engine startup complete. 1.5.1869
+[10/29/18 12:07:29] D2BS 6600: D2BS Shutdown complete.
+[10/29/18 12:07:36] D2BS 4632: D2BS Engine startup complete. 1.5.1869
+[10/29/18 12:07:36] D2BS 4632: LeecherSo1
+[10/29/18 12:07:39] D2BS 5388: D2BS Engine startup complete. 1.5.1869
+[10/29/18 12:07:39] D2BS 5388: LeecherSo
+[10/29/18 12:07:43] D2BS 5544: D2BS Engine startup complete. 1.5.1869
+[10/29/18 12:07:43] D2BS 5544: LeaderSo
+[10/29/18 12:45:30] D2BS 5984: D2BS Engine startup complete. 1.5.1869
+[10/30/18 04:49:16] D2BS 8204: D2BS Engine startup complete. 1.5.1869
+[10/30/18 04:49:16] D2BS 8204: LeaderSo
+[10/30/18 09:23:34] D2BS 7304: D2BS Engine startup complete. 1.5.1869
+[10/30/18 09:27:29] D2BS 7304: D2BS Shutdown complete.
+[10/30/18 09:28:19] D2BS 5352: D2BS Engine startup complete. 1.5.1869
+[10/30/18 09:32:57] D2BS 5352: D2BS Shutdown complete.
+[10/30/18 13:11:46] D2BS 10624: D2BS Engine startup complete. 1.5.1869
+[10/30/18 13:40:23] D2BS 10624: D2BS Shutdown complete.
+[10/30/18 17:55:22] D2BS 7132: D2BS Engine startup complete. 1.5.1869
+[10/30/18 17:55:22] D2BS 7132: IPHunter4
+[10/30/18 23:14:10] D2BS 7132: D2BS Shutdown complete.
+[10/30/18 23:14:11] D2BS 5388: D2BS Shutdown complete.
+[10/30/18 23:14:59] D2BS 14396: D2BS Engine startup complete. 1.5.1869
+[10/30/18 23:20:35] D2BS 14396: D2BS Shutdown complete.
+[10/30/18 23:20:38] D2BS 5920: D2BS Engine startup complete. 1.5.1869
+[10/30/18 23:20:53] D2BS 5920: D2BS Shutdown complete.
+[10/30/18 23:20:54] D2BS 7308: D2BS Engine startup complete. 1.5.1869
+[10/30/18 23:20:56] D2BS 7308: D2BS Shutdown complete.
+[10/31/18 09:03:59] D2BS 5008: D2BS Engine startup complete. 1.5.1869
+[10/31/18 09:03:59] D2BS 5008: Leecher1
+[10/31/18 09:04:00] D2BS 4888: D2BS Engine startup complete. 1.5.1869
+[10/31/18 09:04:00] D2BS 4888: Leecher
+[10/31/18 09:04:04] D2BS 4940: D2BS Engine startup complete. 1.5.1869
+[10/31/18 09:04:04] D2BS 4940: Leader
+[10/31/18 09:04:09] D2BS 4940: D2BS Shutdown complete.
+[10/31/18 09:04:14] D2BS 5008: D2BS Shutdown complete.
+[10/31/18 09:04:14] D2BS 4888: D2BS Shutdown complete.
+[10/31/18 09:04:26] D2BS 2992: D2BS Engine startup complete. 1.5.1869
+[10/31/18 09:04:26] D2BS 2992: LeecherSo1
+[10/31/18 09:04:27] D2BS 2532: D2BS Engine startup complete. 1.5.1869
+[10/31/18 09:04:27] D2BS 2532: LeecherSo
+[10/31/18 09:04:28] D2BS 5060: D2BS Engine startup complete. 1.5.1869
+[10/31/18 09:04:28] D2BS 5060: LeaderSo
+[10/31/18 09:05:02] D2BS 2992: D2BS Shutdown complete.
+[10/31/18 09:05:02] D2BS 5060: D2BS Shutdown complete.
+[10/31/18 09:05:02] D2BS 2532: D2BS Shutdown complete.
+[10/31/18 09:39:34] D2BS 4536: D2BS Engine startup complete. 1.5.1869
+[10/31/18 10:10:31] D2BS 4536: D2BS Shutdown complete.
+[10/31/18 10:10:33] D2BS 2024: D2BS Engine startup complete. 1.5.1869
+[10/31/18 10:10:37] D2BS 2024: D2BS Shutdown complete.
+[10/31/18 10:11:13] D2BS 4440: D2BS Engine startup complete. 1.5.1869
+[10/31/18 10:11:13] D2BS 4440: EastLeecher2
+[10/31/18 10:11:38] D2BS 4724: D2BS Engine startup complete. 1.5.1869
+[10/31/18 10:11:38] D2BS 4724: EastLeecher1
+[10/31/18 10:12:33] D2BS 4016: D2BS Engine startup complete. 1.5.1869
+[10/31/18 10:12:33] D2BS 4016: EastLeecher
+[10/31/18 10:13:08] D2BS 4520: D2BS Engine startup complete. 1.5.1869
+[10/31/18 10:15:51] D2BS 4440: D2BS Shutdown complete.
+[10/31/18 10:15:51] D2BS 4016: D2BS Shutdown complete.
+[10/31/18 10:15:52] D2BS 4520: D2BS Shutdown complete.
+[10/31/18 10:26:11] D2BS 2616: D2BS Engine startup complete. 1.5.1869
+[10/31/18 10:26:11] D2BS 2616: EastLeecher2
+[10/31/18 10:26:16] D2BS 956: D2BS Engine startup complete. 1.5.1869
+[10/31/18 10:26:16] D2BS 956: EastLeecher1
+[10/31/18 10:26:21] D2BS 1472: D2BS Engine startup complete. 1.5.1869
+[10/31/18 10:26:21] D2BS 1472: EastLeecher
+[10/31/18 10:26:27] D2BS 2144: D2BS Engine startup complete. 1.5.1869
+[10/31/18 10:33:37] D2BS 2480: D2BS Engine startup complete. 1.5.1869
+[10/31/18 10:33:37] D2BS 2480: EastLeecher2
+[10/31/18 10:33:37] D2BS 4716: D2BS Engine startup complete. 1.5.1869
+[10/31/18 10:33:38] D2BS 4716: EastLeecher1
+[10/31/18 10:33:38] D2BS 2228: D2BS Engine startup complete. 1.5.1869
+[10/31/18 10:33:38] D2BS 3888: D2BS Engine startup complete. 1.5.1869
+[10/31/18 10:33:38] D2BS 3888: EastLeecher
+[10/31/18 11:33:36] D2BS 2480: D2BS Shutdown complete.
+[10/31/18 11:33:36] D2BS 4716: D2BS Shutdown complete.
+[10/31/18 11:33:37] D2BS 5924: D2BS Engine startup complete. 1.5.1869
+[10/31/18 11:33:37] D2BS 5156: D2BS Engine startup complete. 1.5.1869
+[10/31/18 11:33:37] D2BS 5924: EastLeecher2
+[10/31/18 11:33:37] D2BS 5156: EastLeecher1
+[10/31/18 13:07:06] D2BS 5924: D2BS Shutdown complete.
+[10/31/18 13:07:07] D2BS 3396: D2BS Engine startup complete. 1.5.1869
+[10/31/18 13:07:07] D2BS 3396: EastLeecher2
+[10/31/18 14:01:58] D2BS 3888: D2BS Shutdown complete.
+[10/31/18 14:01:58] D2BS 2228: D2BS Shutdown complete.
+[10/31/18 14:01:58] D2BS 3396: D2BS Shutdown complete.
+[10/31/18 14:01:58] D2BS 5156: D2BS Shutdown complete.
+[10/31/18 14:57:14] D2BS 3964: D2BS Engine startup complete. 1.5.1869
+[10/31/18 14:57:14] D2BS 3964: EastLeecher2
+[10/31/18 14:57:16] D2BS 3040: D2BS Engine startup complete. 1.5.1869
+[10/31/18 14:57:16] D2BS 3040: EastLeecher1
+[10/31/18 14:57:18] D2BS 5420: D2BS Engine startup complete. 1.5.1869
+[10/31/18 14:57:18] D2BS 5420: EastLeecher
+[10/31/18 14:57:22] D2BS 4252: D2BS Engine startup complete. 1.5.1869
+[10/31/18 15:59:36] D2BS 3964: D2BS Shutdown complete.
+[10/31/18 15:59:36] D2BS 3040: D2BS Shutdown complete.
+[10/31/18 15:59:36] D2BS 4252: D2BS Shutdown complete.
+[10/31/18 15:59:36] D2BS 5420: D2BS Shutdown complete.
+[10/31/18 17:07:38] D2BS 4048: D2BS Engine startup complete. 1.5.1869
+[10/31/18 17:07:38] D2BS 4048: EastLeecher2
+[10/31/18 17:07:40] D2BS 1948: D2BS Engine startup complete. 1.5.1869
+[10/31/18 17:07:40] D2BS 1948: EastLeecher1
+[10/31/18 17:07:44] D2BS 3288: D2BS Engine startup complete. 1.5.1869
+[10/31/18 17:07:44] D2BS 3288: EastLeecher
+[10/31/18 17:07:47] D2BS 3520: D2BS Engine startup complete. 1.5.1869
+[10/31/18 17:40:07] D2BS 3288: D2BS Shutdown complete.
+[10/31/18 17:40:07] D2BS 4048: D2BS Shutdown complete.
+[10/31/18 17:40:07] D2BS 3520: D2BS Shutdown complete.
+[10/31/18 22:08:55] D2BS 4144: D2BS Engine startup complete. 1.5.1869
+[10/31/18 22:11:08] D2BS 4144: D2BS Shutdown complete.
+[11/01/18 09:52:43] D2BS 748: D2BS Engine startup complete. 1.5.1869
+[11/01/18 09:55:38] D2BS 748: D2BS Shutdown complete.
+[11/01/18 09:55:45] D2BS 2260: D2BS Engine startup complete. 1.5.1869
+[11/01/18 09:55:45] D2BS 2260: EastLeecher2
+[11/01/18 09:55:47] D2BS 4688: D2BS Engine startup complete. 1.5.1869
+[11/01/18 09:55:47] D2BS 4688: EastLeecher1
+[11/01/18 09:55:49] D2BS 5032: D2BS Engine startup complete. 1.5.1869
+[11/01/18 09:55:49] D2BS 5032: EastLeecher
+[11/01/18 09:55:51] D2BS 4936: D2BS Engine startup complete. 1.5.1869
+[11/01/18 12:14:46] D2BS 4936: D2BS Shutdown complete.
+[11/01/18 12:14:46] D2BS 2260: D2BS Shutdown complete.
+[11/01/18 12:14:46] D2BS 5032: D2BS Shutdown complete.
+[11/01/18 12:14:46] D2BS 4688: D2BS Shutdown complete.
+[11/01/18 13:36:14] D2BS 5468: D2BS Engine startup complete. 1.5.1869
+[11/01/18 14:15:47] D2BS 5468: D2BS Shutdown complete.
+[11/01/18 15:56:36] D2BS 4264: D2BS Engine startup complete. 1.5.1869
+[11/01/18 15:57:23] D2BS 4264: D2BS Shutdown complete.
+[11/01/18 15:57:56] D2BS 3228: D2BS Engine startup complete. 1.5.1869
+[11/01/18 15:57:56] D2BS 3228: EastLeecher2
+[11/01/18 15:57:58] D2BS 6632: D2BS Engine startup complete. 1.5.1869
+[11/01/18 15:57:58] D2BS 6632: EastLeecher1
+[11/01/18 15:58:00] D2BS 3260: D2BS Engine startup complete. 1.5.1869
+[11/01/18 15:58:00] D2BS 3260: EastLeecher
+[11/01/18 15:58:02] D2BS 3300: D2BS Engine startup complete. 1.5.1869
+[11/01/18 16:20:12] D2BS 3228: D2BS Shutdown complete.
+[11/01/18 16:20:12] D2BS 3260: D2BS Shutdown complete.
+[11/01/18 16:20:12] D2BS 6632: D2BS Shutdown complete.
+[11/01/18 16:20:12] D2BS 3300: D2BS Shutdown complete.
+[11/01/18 17:24:51] D2BS 2208: D2BS Engine startup complete. 1.5.1869
+[11/01/18 17:24:51] D2BS 2208: EastLeecher2
+[11/01/18 17:24:51] D2BS 1440: D2BS Engine startup complete. 1.5.1869
+[11/01/18 17:24:51] D2BS 1440: EastLeecher1
+[11/01/18 17:24:53] D2BS 1220: D2BS Engine startup complete. 1.5.1869
+[11/01/18 17:24:53] D2BS 1220: EastLeecher
+[11/01/18 17:26:17] D2BS 416: D2BS Engine startup complete. 1.5.1869
+[11/01/18 17:51:19] D2BS 2208: D2BS Shutdown complete.
+[11/01/18 17:51:19] D2BS 1440: D2BS Shutdown complete.
+[11/01/18 17:51:19] D2BS 1220: D2BS Shutdown complete.
+[11/01/18 17:51:19] D2BS 416: D2BS Shutdown complete.
+[11/01/18 17:54:24] D2BS 4888: D2BS Engine startup complete. 1.5.1869
+[11/01/18 17:54:24] D2BS 4888: EastLeech2
+[11/01/18 17:54:27] D2BS 7128: D2BS Engine startup complete. 1.5.1869
+[11/01/18 17:54:27] D2BS 7128: EastLeech1
+[11/01/18 17:54:30] D2BS 6908: D2BS Engine startup complete. 1.5.1869
+[11/01/18 17:54:30] D2BS 6908: EastLeech
+[11/01/18 17:54:51] D2BS 4536: D2BS Engine startup complete. 1.5.1869
+[11/01/18 17:54:51] D2BS 4536: EastLead
+[11/01/18 17:59:50] D2BS 4888: D2BS Shutdown complete.
+[11/01/18 17:59:52] D2BS 7128: D2BS Shutdown complete.
+[11/01/18 17:59:54] D2BS 6908: D2BS Shutdown complete.
+[11/01/18 18:06:34] D2BS 7116: D2BS Engine startup complete. 1.5.1869
+[11/01/18 18:06:34] D2BS 7116: EastLeech2
+[11/01/18 18:06:36] D2BS 716: D2BS Engine startup complete. 1.5.1869
+[11/01/18 18:06:36] D2BS 716: EastLeech1
+[11/01/18 18:06:38] D2BS 3604: D2BS Engine startup complete. 1.5.1869
+[11/01/18 18:06:38] D2BS 3604: EastLeech
+[11/01/18 18:20:59] D2BS 716: D2BS Shutdown complete.
+[11/01/18 18:20:59] D2BS 4536: D2BS Shutdown complete.
+[11/01/18 18:20:59] D2BS 7116: D2BS Shutdown complete.
+[11/01/18 18:20:59] D2BS 3604: D2BS Shutdown complete.
+[11/02/18 09:34:20] D2BS 1044: D2BS Engine startup complete. 1.5.1869
+[11/02/18 09:35:46] D2BS 1044: D2BS Shutdown complete.
+[11/02/18 09:36:00] D2BS 2844: D2BS Engine startup complete. 1.5.1869
+[11/02/18 09:36:00] D2BS 2844: EastLeecher2
+[11/02/18 09:36:02] D2BS 3496: D2BS Engine startup complete. 1.5.1869
+[11/02/18 09:36:02] D2BS 3496: EastLeecher1
+[11/02/18 09:36:03] D2BS 2836: D2BS Engine startup complete. 1.5.1869
+[11/02/18 09:36:03] D2BS 2836: EastLeecher
+[11/02/18 09:36:06] D2BS 1116: D2BS Engine startup complete. 1.5.1869
+[11/02/18 11:22:31] D2BS 2836: D2BS Shutdown complete.
+[11/02/18 11:22:31] D2BS 2844: D2BS Shutdown complete.
+[11/02/18 11:22:31] D2BS 3496: D2BS Shutdown complete.
+[11/02/18 11:22:32] D2BS 1116: D2BS Shutdown complete.
+[11/02/18 11:51:45] D2BS 732: D2BS Engine startup complete. 1.5.1869
+[11/02/18 11:51:45] D2BS 732: EastLeech2
+[11/02/18 11:51:48] D2BS 4660: D2BS Engine startup complete. 1.5.1869
+[11/02/18 11:51:48] D2BS 4660: EastLeech1
+[11/02/18 11:51:51] D2BS 5944: D2BS Engine startup complete. 1.5.1869
+[11/02/18 11:51:51] D2BS 5944: EastLeech
+[11/02/18 11:52:09] D2BS 3908: D2BS Engine startup complete. 1.5.1869
+[11/02/18 11:52:09] D2BS 3908: EastLead
+[11/02/18 12:39:17] D2BS 4660: D2BS Shutdown complete.
+[11/02/18 12:39:17] D2BS 732: D2BS Shutdown complete.
+[11/02/18 12:39:17] D2BS 3908: D2BS Shutdown complete.
+[11/02/18 12:39:17] D2BS 5944: D2BS Shutdown complete.
+[11/02/18 14:14:36] D2BS 1132: D2BS Engine startup complete. 1.5.1869
+[11/02/18 14:14:36] D2BS 1132: EastLeech2
+[11/02/18 14:14:38] D2BS 3832: D2BS Engine startup complete. 1.5.1869
+[11/02/18 14:14:38] D2BS 3832: EastLeech1
+[11/02/18 14:14:41] D2BS 920: D2BS Engine startup complete. 1.5.1869
+[11/02/18 14:14:41] D2BS 920: EastLeech
+[11/02/18 14:14:48] D2BS 2760: D2BS Engine startup complete. 1.5.1869
+[11/02/18 14:14:48] D2BS 2760: EastLead
+[11/02/18 15:52:29] D2BS 3832: D2BS Shutdown complete.
+[11/02/18 15:52:30] D2BS 2968: D2BS Engine startup complete. 1.5.1869
+[11/02/18 15:52:30] D2BS 2968: EastLeech1
+[11/02/18 15:52:59] D2BS 2760: D2BS Shutdown complete.
+[11/02/18 15:53:00] D2BS 5364: D2BS Engine startup complete. 1.5.1869
+[11/02/18 15:53:00] D2BS 5364: EastLead
+[11/02/18 17:14:14] D2BS 5408: D2BS Engine startup complete. 1.5.1869
+[11/02/18 17:14:14] D2BS 5408: EastLeech
+[11/03/18 10:55:20] D2BS 2668: D2BS Engine startup complete. 1.5.1869
+[11/03/18 10:55:20] D2BS 2668: EastLeecher2
+[11/03/18 10:55:22] D2BS 1432: D2BS Engine startup complete. 1.5.1869
+[11/03/18 10:55:22] D2BS 1432: EastLeecher1
+[11/03/18 10:55:24] D2BS 1532: D2BS Engine startup complete. 1.5.1869
+[11/03/18 10:55:24] D2BS 1532: EastLeecher
+[11/03/18 10:55:27] D2BS 1488: D2BS Engine startup complete. 1.5.1869
+[11/03/18 11:12:24] D2BS 1488: D2BS Shutdown complete.
+[11/03/18 11:12:26] D2BS 4684: D2BS Engine startup complete. 1.5.1869
+[11/03/18 12:33:26] D2BS 4684: D2BS Shutdown complete.
+[11/03/18 12:33:26] D2BS 2668: D2BS Shutdown complete.
+[11/03/18 12:33:27] D2BS 1532: D2BS Shutdown complete.
+[11/03/18 12:33:27] D2BS 1432: D2BS Shutdown complete.
+[11/04/18 08:42:23] D2BS 6200: D2BS Engine startup complete. 1.5.1869
+[11/04/18 08:42:24] D2BS 6200: EastLeech2
+[11/04/18 08:42:24] D2BS 4180: D2BS Engine startup complete. 1.5.1869
+[11/04/18 08:42:24] D2BS 4180: EastLeech1
+[11/04/18 08:42:27] D2BS 6788: D2BS Engine startup complete. 1.5.1869
+[11/04/18 08:42:27] D2BS 6788: EastLeech
+[11/04/18 08:42:31] D2BS 4456: D2BS Engine startup complete. 1.5.1869
+[11/04/18 08:42:31] D2BS 4456: EastLead
+[11/04/18 08:42:43] D2BS 6200: D2BS Shutdown complete.
+[11/04/18 08:42:43] D2BS 4180: D2BS Shutdown complete.
+[11/04/18 08:42:44] D2BS 6840: D2BS Engine startup complete. 1.5.1869
+[11/04/18 08:42:44] D2BS 3632: D2BS Engine startup complete. 1.5.1869
+[11/04/18 08:42:44] D2BS 6840: EastLeech1
+[11/04/18 08:42:44] D2BS 3632: EastLeech2
+[11/04/18 10:09:45] D2BS 6840: D2BS Shutdown complete.
+[11/04/18 10:09:45] D2BS 4456: D2BS Shutdown complete.
+[11/04/18 10:09:45] D2BS 6788: D2BS Shutdown complete.
+[11/04/18 10:09:45] D2BS 3632: D2BS Shutdown complete.
+[11/04/18 10:13:28] D2BS 1256: D2BS Engine startup complete. 1.5.1869
+[11/04/18 10:13:28] D2BS 1256: EastLeecher2
+[11/04/18 10:13:33] D2BS 3188: D2BS Engine startup complete. 1.5.1869
+[11/04/18 10:13:33] D2BS 3188: EastLeecher1
+[11/04/18 10:13:39] D2BS 1476: D2BS Engine startup complete. 1.5.1869
+[11/04/18 10:13:39] D2BS 1476: EastLeecher
+[11/04/18 10:13:45] D2BS 4220: D2BS Engine startup complete. 1.5.1869
+[11/04/18 11:26:24] D2BS 4876: D2BS Engine startup complete. 1.5.1869
+[11/04/18 13:00:11] D2BS 1256: Crash File: BlizzardError/2018-11-04 13.00.11/Crash.txt
+
+[11/04/18 13:00:11] D2BS 1256: D2BS Shutdown complete.
+[11/04/18 13:00:12] D2BS 5544: D2BS Engine startup complete. 1.5.1869
+[11/04/18 13:00:12] D2BS 5544: EastLeecher2
+[11/04/18 13:55:46] D2BS 4876: D2BS Shutdown complete.
+[11/04/18 13:55:47] D2BS 1476: D2BS Shutdown complete.
+[11/04/18 13:55:47] D2BS 3188: D2BS Shutdown complete.
+[11/04/18 13:55:47] D2BS 5544: D2BS Shutdown complete.
+[11/04/18 16:22:39] D2BS 3172: D2BS Engine startup complete. 1.5.1869
+[11/04/18 16:22:39] D2BS 3172: EastLeech2
+[11/04/18 16:22:41] D2BS 5956: D2BS Engine startup complete. 1.5.1869
+[11/04/18 16:22:41] D2BS 5956: EastLeech1
+[11/04/18 16:22:44] D2BS 5676: D2BS Engine startup complete. 1.5.1869
+[11/04/18 16:22:44] D2BS 5676: EastLeech
+[11/04/18 16:23:00] D2BS 3668: D2BS Engine startup complete. 1.5.1869
+[11/04/18 16:23:00] D2BS 3668: EastLead
+[11/04/18 18:46:19] D2BS 3172: D2BS Shutdown complete.
+[11/04/18 18:46:19] D2BS 5676: D2BS Shutdown complete.
+[11/04/18 18:46:20] D2BS 5956: D2BS Shutdown complete.
+[11/04/18 18:46:20] D2BS 3668: D2BS Shutdown complete.
+[11/04/18 19:41:55] D2BS 1176: D2BS Engine startup complete. 1.5.1869
+[11/04/18 19:41:55] D2BS 1176: EastLeech2
+[11/04/18 19:41:58] D2BS 5684: D2BS Engine startup complete. 1.5.1869
+[11/04/18 19:41:58] D2BS 5684: EastLeech1
+[11/04/18 19:42:01] D2BS 2920: D2BS Engine startup complete. 1.5.1869
+[11/04/18 19:42:01] D2BS 2920: EastLeech
+[11/04/18 19:42:05] D2BS 5884: D2BS Engine startup complete. 1.5.1869
+[11/04/18 19:42:05] D2BS 5884: EastLead
+[11/04/18 19:45:17] D2BS 400: D2BS Engine startup complete. 1.5.1869
+[11/04/18 20:34:27] D2BS 400: D2BS Shutdown complete.
+[11/04/18 20:56:42] D2BS 5684: D2BS Shutdown complete.
+[11/04/18 20:56:43] D2BS 5208: D2BS Engine startup complete. 1.5.1869
+[11/04/18 20:56:43] D2BS 5208: EastLeech1
+[11/04/18 20:57:50] D2BS 5884: D2BS Shutdown complete.
+[11/04/18 20:57:51] D2BS 6104: D2BS Engine startup complete. 1.5.1869
+[11/04/18 20:57:51] D2BS 6104: EastLead
+[11/04/18 21:47:48] D2BS 7116: D2BS Engine startup complete. 1.5.1869
+[11/04/18 21:47:48] D2BS 7116: EastLeech2
+[11/05/18 03:47:14] D2BS 2920: D2BS Shutdown complete.
+[11/05/18 03:47:15] D2BS 7824: D2BS Engine startup complete. 1.5.1869
+[11/05/18 03:47:15] D2BS 7824: EastLeech
+[11/05/18 03:47:40] D2BS 6104: D2BS Shutdown complete.
+[11/05/18 03:47:40] D2BS 3176: D2BS Engine startup complete. 1.5.1869
+[11/05/18 03:47:40] D2BS 3176: EastLead
+[11/05/18 06:14:09] D2BS 5208: D2BS Shutdown complete.
+[11/05/18 06:14:09] D2BS 3176: D2BS Shutdown complete.
+[11/05/18 06:14:09] D2BS 7116: D2BS Shutdown complete.
+[11/05/18 06:14:09] D2BS 7824: D2BS Shutdown complete.
+[11/05/18 19:25:49] D2BS 6100: D2BS Engine startup complete. 1.5.1869
+[11/05/18 19:25:49] D2BS 6100: EastLeech2
+[11/05/18 19:25:50] D2BS 7388: D2BS Engine startup complete. 1.5.1869
+[11/05/18 19:25:50] D2BS 7388: EastLeech1
+[11/05/18 19:25:52] D2BS 6328: D2BS Engine startup complete. 1.5.1869
+[11/05/18 19:25:52] D2BS 6328: EastLeech
+[11/05/18 19:25:54] D2BS 6216: D2BS Engine startup complete. 1.5.1869
+[11/05/18 19:25:54] D2BS 6216: EastLead
+[11/05/18 22:54:47] D2BS 7388: D2BS Shutdown complete.
+[11/05/18 22:54:47] D2BS 6100: D2BS Shutdown complete.
+[11/05/18 22:54:47] D2BS 6216: D2BS Shutdown complete.
+[11/05/18 22:54:47] D2BS 6328: D2BS Shutdown complete.
+[11/06/18 00:03:10] D2BS 8140: D2BS Engine startup complete. 1.5.1869
+[11/06/18 00:03:10] D2BS 8140: EastLeech2
+[11/06/18 00:03:13] D2BS 7984: D2BS Engine startup complete. 1.5.1869
+[11/06/18 00:03:13] D2BS 7984: EastLeech1
+[11/06/18 00:03:16] D2BS 8104: D2BS Engine startup complete. 1.5.1869
+[11/06/18 00:03:16] D2BS 8104: EastLeech
+[11/06/18 00:03:19] D2BS 6072: D2BS Engine startup complete. 1.5.1869
+[11/06/18 00:03:19] D2BS 6072: EastLead
+[11/06/18 07:21:26] D2BS 8140: D2BS Shutdown complete.
+[11/06/18 07:21:27] D2BS 4356: D2BS Engine startup complete. 1.5.1869
+[11/06/18 07:21:27] D2BS 4356: EastLeech2
+[11/06/18 07:21:50] D2BS 6072: D2BS Shutdown complete.
+[11/06/18 07:21:51] D2BS 3376: D2BS Engine startup complete. 1.5.1869
+[11/06/18 07:21:51] D2BS 3376: EastLead
+[11/06/18 08:55:56] D2BS 7984: D2BS Shutdown complete.
+[11/06/18 08:55:57] D2BS 5672: D2BS Engine startup complete. 1.5.1869
+[11/06/18 08:55:57] D2BS 5672: EastLeech1
+[11/06/18 08:56:21] D2BS 3376: D2BS Shutdown complete.
+[11/06/18 08:56:22] D2BS 6108: D2BS Engine startup complete. 1.5.1869
+[11/06/18 08:56:22] D2BS 6108: EastLead
+[11/06/18 09:36:19] D2BS 5672: D2BS Shutdown complete.
+[11/06/18 09:36:19] D2BS 6108: D2BS Shutdown complete.
+[11/06/18 09:36:19] D2BS 8104: D2BS Shutdown complete.
+[11/06/18 09:36:19] D2BS 4356: D2BS Shutdown complete.
+[11/06/18 09:38:01] D2BS 3724: D2BS Engine startup complete. 1.5.1869
+[11/06/18 09:38:01] D2BS 3724: EastLeecher2
+[11/06/18 09:38:02] D2BS 3924: D2BS Engine startup complete. 1.5.1869
+[11/06/18 09:38:02] D2BS 3924: EastLeecher1
+[11/06/18 09:38:04] D2BS 2656: D2BS Engine startup complete. 1.5.1869
+[11/06/18 09:38:04] D2BS 2656: EastLeecher
+[11/06/18 09:38:06] D2BS 8148: D2BS Engine startup complete. 1.5.1869
+[11/06/18 10:20:47] D2BS 3724: D2BS Shutdown complete.
+[11/06/18 10:20:47] D2BS 2656: D2BS Shutdown complete.
+[11/06/18 10:20:47] D2BS 3924: D2BS Shutdown complete.
+[11/06/18 10:20:47] D2BS 8148: D2BS Shutdown complete.
+[11/06/18 10:21:01] D2BS 7832: D2BS Engine startup complete. 1.5.1869
+[11/06/18 10:21:01] D2BS 7832: EastLeech2
+[11/06/18 10:21:04] D2BS 3368: D2BS Engine startup complete. 1.5.1869
+[11/06/18 10:21:04] D2BS 3368: EastLeech1
+[11/06/18 10:21:06] D2BS 6688: D2BS Engine startup complete. 1.5.1869
+[11/06/18 10:21:06] D2BS 6688: EastLeech
+[11/06/18 10:21:10] D2BS 1456: D2BS Engine startup complete. 1.5.1869
+[11/06/18 10:21:10] D2BS 1456: EastLead
+[11/06/18 15:31:17] D2BS 5552: D2BS Engine startup complete. 1.5.1869
+[11/06/18 15:31:17] D2BS 5552: EastLeech
+[11/06/18 15:31:20] D2BS 7396: D2BS Engine startup complete. 1.5.1869
+[11/06/18 15:31:20] D2BS 3560: D2BS Engine startup complete. 1.5.1869
+[11/06/18 15:31:20] D2BS 7396: EastLeech1
+[11/06/18 15:31:20] D2BS 3560: EastLead
+[11/06/18 15:31:20] D2BS 4232: D2BS Engine startup complete. 1.5.1869
+[11/06/18 15:31:20] D2BS 4232: EastLeech2
+[11/06/18 15:45:56] D2BS 7112: D2BS Engine startup complete. 1.5.1869
+[11/06/18 15:45:56] D2BS 7112: EastLeech
+[11/06/18 15:45:56] D2BS 1288: D2BS Engine startup complete. 1.5.1869
+[11/06/18 15:45:56] D2BS 1288: EastLead
+[11/06/18 15:45:56] D2BS 6672: D2BS Engine startup complete. 1.5.1869
+[11/06/18 15:45:56] D2BS 6672: EastLeech1
+[11/06/18 19:30:32] D2BS 6672: D2BS Shutdown complete.
+[11/06/18 19:30:32] D2BS 1288: D2BS Shutdown complete.
+[11/06/18 19:30:32] D2BS 4232: D2BS Shutdown complete.
+[11/06/18 19:30:32] D2BS 7112: D2BS Shutdown complete.
+[11/06/18 19:30:43] D2BS 7800: D2BS Engine startup complete. 1.5.1869
+[11/06/18 19:30:43] D2BS 7800: EastLeecher2
+[11/06/18 19:31:07] D2BS 4740: D2BS Engine startup complete. 1.5.1869
+[11/06/18 19:31:07] D2BS 4740: EastLeecher1
+[11/06/18 19:31:31] D2BS 7160: D2BS Engine startup complete. 1.5.1869
+[11/06/18 19:31:31] D2BS 7160: EastLeecher
+[11/06/18 19:31:51] D2BS 7440: D2BS Engine startup complete. 1.5.1869
+[11/06/18 20:31:54] D2BS 7160: D2BS Shutdown complete.
+[11/06/18 20:31:54] D2BS 4740: D2BS Shutdown complete.
+[11/06/18 20:31:54] D2BS 7800: D2BS Shutdown complete.
+[11/06/18 20:31:55] D2BS 7440: D2BS Shutdown complete.
+[11/06/18 20:34:30] D2BS 6896: D2BS Engine startup complete. 1.5.1869
+[11/06/18 20:34:30] D2BS 6896: EastLeech2
+[11/06/18 20:36:14] D2BS 780: D2BS Engine startup complete. 1.5.1869
+[11/06/18 20:36:14] D2BS 780: EastLeech1
+[11/06/18 20:36:16] D2BS 8068: D2BS Engine startup complete. 1.5.1869
+[11/06/18 20:36:16] D2BS 8068: EastLeech
+[11/06/18 20:36:18] D2BS 84: D2BS Engine startup complete. 1.5.1869
+[11/06/18 20:36:18] D2BS 84: EastLead
+[11/06/18 21:12:11] D2BS 6896: D2BS Shutdown complete.
+[11/06/18 21:12:11] D2BS 84: D2BS Shutdown complete.
+[11/06/18 21:12:11] D2BS 8068: D2BS Shutdown complete.
+[11/06/18 21:15:30] D2BS 1480: D2BS Engine startup complete. 1.5.1869
+[11/06/18 21:15:30] D2BS 1480: EastLead
+[11/06/18 21:15:33] D2BS 1480: D2BS Shutdown complete.
+[11/06/18 21:15:41] D2BS 7176: D2BS Engine startup complete. 1.5.1869
+[11/06/18 21:15:41] D2BS 7176: EastLeech2
+[11/06/18 21:15:41] D2BS 7628: D2BS Engine startup complete. 1.5.1869
+[11/06/18 21:15:41] D2BS 7628: EastLead
+[11/06/18 21:15:41] D2BS 3892: D2BS Engine startup complete. 1.5.1869
+[11/06/18 21:15:41] D2BS 3892: EastLeech
+[11/06/18 21:15:42] D2BS 7972: D2BS Engine startup complete. 1.5.1869
+[11/06/18 21:15:42] D2BS 7972: EastLeech1
+[11/06/18 23:30:24] D2BS 7628: D2BS Shutdown complete.
+[11/06/18 23:30:35] D2BS 5360: D2BS Engine startup complete. 1.5.1869
+[11/06/18 23:30:35] D2BS 5360: EastLead
+[11/07/18 03:12:55] D2BS 4620: D2BS Engine startup complete. 1.5.1869
+[11/07/18 03:12:55] D2BS 4620: EastLeech1
+[11/07/18 03:38:32] D2BS 4212: D2BS Engine startup complete. 1.5.1869
+[11/07/18 03:38:32] D2BS 4212: EastLeech
+[11/07/18 03:38:32] D2BS 5132: D2BS Engine startup complete. 1.5.1869
+[11/07/18 03:38:32] D2BS 5132: EastLead
+[11/07/18 03:38:32] D2BS 8108: D2BS Engine startup complete. 1.5.1869
+[11/07/18 03:38:32] D2BS 8108: EastLeech1
+[11/07/18 04:48:29] D2BS 7176: D2BS Shutdown complete.
+[11/07/18 04:48:30] D2BS 7308: D2BS Engine startup complete. 1.5.1869
+[11/07/18 04:48:30] D2BS 7308: EastLeech2
+[11/07/18 05:54:45] D2BS 7308: D2BS Shutdown complete.
+[11/07/18 05:54:45] D2BS 4212: D2BS Shutdown complete.
+[11/07/18 05:54:45] D2BS 5132: D2BS Shutdown complete.
+[11/07/18 05:54:45] D2BS 8108: D2BS Shutdown complete.
+[11/07/18 06:04:46] D2BS 7904: D2BS Engine startup complete. 1.5.1869
+[11/07/18 06:04:46] D2BS 7904: EastLeecher2
+[11/07/18 06:04:48] D2BS 4848: D2BS Engine startup complete. 1.5.1869
+[11/07/18 06:04:48] D2BS 4848: EastLeecher1
+[11/07/18 06:04:51] D2BS 6332: D2BS Engine startup complete. 1.5.1869
+[11/07/18 06:04:51] D2BS 6332: EastLeecher
+[11/07/18 06:04:54] D2BS 7920: D2BS Engine startup complete. 1.5.1869
+[11/07/18 06:15:14] D2BS 6332: D2BS Shutdown complete.
+[11/07/18 06:15:14] D2BS 4848: D2BS Shutdown complete.
+[11/07/18 06:15:14] D2BS 7904: D2BS Shutdown complete.
+[11/07/18 06:15:14] D2BS 7920: D2BS Shutdown complete.
+[11/07/18 06:16:02] D2BS 7740: D2BS Engine startup complete. 1.5.1869
+[11/07/18 06:16:02] D2BS 7740: EastLeech2
+[11/07/18 06:16:11] D2BS 7648: D2BS Engine startup complete. 1.5.1869
+[11/07/18 06:16:11] D2BS 7648: EastLeech1
+[11/07/18 06:16:17] D2BS 172: D2BS Engine startup complete. 1.5.1869
+[11/07/18 06:16:17] D2BS 172: EastLeech
+[11/07/18 06:16:29] D2BS 4808: D2BS Engine startup complete. 1.5.1869
+[11/07/18 06:16:29] D2BS 4808: EastLead
+[11/07/18 07:42:54] D2BS 7648: D2BS Shutdown complete.
+[11/07/18 07:42:55] D2BS 3056: D2BS Engine startup complete. 1.5.1869
+[11/07/18 07:42:55] D2BS 3056: EastLeech1
+[11/07/18 07:42:56] D2BS 172: D2BS Shutdown complete.
+[11/07/18 07:42:56] D2BS 5900: D2BS Engine startup complete. 1.5.1869
+[11/07/18 07:42:56] D2BS 5900: EastLeech
+[11/07/18 07:43:18] D2BS 4808: D2BS Shutdown complete.
+[11/07/18 07:43:19] D2BS 6132: D2BS Engine startup complete. 1.5.1869
+[11/07/18 07:43:19] D2BS 6132: EastLead
+[11/07/18 13:21:50] D2BS 7480: D2BS Engine startup complete. 1.5.1869
+[11/07/18 13:21:50] D2BS 7480: EastLeech
+[11/07/18 13:21:52] D2BS 1404: D2BS Engine startup complete. 1.5.1869
+[11/07/18 13:21:52] D2BS 1404: EastLeech2
+[11/07/18 13:21:52] D2BS 5604: D2BS Engine startup complete. 1.5.1869
+[11/07/18 13:21:52] D2BS 5604: EastLeech1
+[11/07/18 13:21:52] D2BS 2132: D2BS Engine startup complete. 1.5.1869
+[11/07/18 13:21:52] D2BS 2132: EastLead
+[11/07/18 13:50:18] D2BS 2132: Crash File: BlizzardError/2018-11-07 13.50.18/Crash.txt
+
+[11/07/18 13:50:18] D2BS 2132: D2BS Shutdown complete.
+[11/07/18 13:50:22] D2BS 2628: D2BS Engine startup complete. 1.5.1869
+[11/07/18 13:50:22] D2BS 2628: EastLead
+[11/07/18 14:29:49] D2BS 1404: D2BS Shutdown complete.
+[11/07/18 14:29:49] D2BS 7480: D2BS Shutdown complete.
+[11/07/18 14:30:05] D2BS 7576: D2BS Engine startup complete. 1.5.1869
+[11/07/18 14:30:05] D2BS 7576: EastLeech2
+[11/07/18 14:30:18] D2BS 2720: D2BS Engine startup complete. 1.5.1869
+[11/07/18 14:30:18] D2BS 2720: EastLeech1
+[11/07/18 14:30:29] D2BS 8064: D2BS Engine startup complete. 1.5.1869
+[11/07/18 14:30:29] D2BS 8064: EastLeech
+[11/07/18 14:30:38] D2BS 1648: D2BS Engine startup complete. 1.5.1869
+[11/07/18 14:30:38] D2BS 1648: EastLead
+[11/07/18 15:09:51] D2BS 3696: D2BS Engine startup complete. 1.5.1869
+[11/07/18 15:09:51] D2BS 3696: EastLeech
+[11/07/18 15:09:52] D2BS 7128: D2BS Engine startup complete. 1.5.1869
+[11/07/18 15:09:52] D2BS 7128: EastLead
+[11/07/18 15:09:52] D2BS 5244: D2BS Engine startup complete. 1.5.1869
+[11/07/18 15:09:52] D2BS 5244: EastLeech1
+[11/07/18 17:31:49] D2BS 5324: D2BS Engine startup complete. 1.5.1869
+[11/07/18 17:31:49] D2BS 5324: EastLeech1
+[11/07/18 17:32:14] D2BS 4408: D2BS Engine startup complete. 1.5.1869
+[11/07/18 17:32:14] D2BS 4408: EastLead
+[11/07/18 19:43:32] D2BS 6384: D2BS Engine startup complete. 1.5.1869
+[11/07/18 19:43:38] D2BS 6384: D2BS Shutdown complete.
+[11/07/18 19:43:49] D2BS 3700: D2BS Engine startup complete. 1.5.1869
+[11/07/18 20:02:19] D2BS 3700: D2BS Shutdown complete.
+[11/07/18 20:02:20] D2BS 8448: D2BS Engine startup complete. 1.5.1869
+[11/07/18 20:26:51] D2BS 8448: D2BS Shutdown complete.
+[11/07/18 23:16:27] D2BS 4408: D2BS Shutdown complete.
+[11/07/18 23:16:27] D2BS 3696: D2BS Shutdown complete.
+[11/07/18 23:16:27] D2BS 5324: D2BS Shutdown complete.
+[11/07/18 23:16:27] D2BS 7576: D2BS Shutdown complete.
+[11/08/18 12:18:51] D2BS 1452: D2BS Engine startup complete. 1.5.1869
+[11/08/18 12:43:19] D2BS 1452: D2BS Shutdown complete.
+[11/08/18 13:25:09] D2BS 3576: D2BS Engine startup complete. 1.5.1869
+[11/08/18 13:26:33] D2BS 4344: D2BS Engine startup complete. 1.5.1869
+[11/08/18 13:30:35] D2BS 3368: D2BS Engine startup complete. 1.5.1869
+[11/08/18 13:31:13] D2BS 3304: D2BS Engine startup complete. 1.5.1869
+[11/08/18 13:38:35] D2BS 4344: D2BS Shutdown complete.
+[11/08/18 13:38:35] D2BS 3368: D2BS Shutdown complete.
+[11/08/18 13:38:35] D2BS 3304: D2BS Shutdown complete.
+[11/08/18 13:38:35] D2BS 3576: D2BS Shutdown complete.
+[11/08/18 19:37:13] D2BS 2212: D2BS Engine startup complete. 1.5.1869
+[11/08/18 19:37:13] D2BS 2212: EastLeech2
+[11/08/18 19:37:14] D2BS 1188: D2BS Engine startup complete. 1.5.1869
+[11/08/18 19:37:14] D2BS 1188: EastLeech1
+[11/08/18 19:37:17] D2BS 5948: D2BS Engine startup complete. 1.5.1869
+[11/08/18 19:37:17] D2BS 5948: EastLeech
+[11/08/18 19:37:20] D2BS 2652: D2BS Engine startup complete. 1.5.1869
+[11/08/18 19:37:20] D2BS 2652: EastLead
+[11/08/18 23:23:01] D2BS 3484: D2BS Engine startup complete. 1.5.1869
+[11/08/18 23:23:01] D2BS 3484: EastLeech1
+[11/09/18 04:25:15] D2BS 2212: D2BS Shutdown complete.
+[11/09/18 04:25:16] D2BS 7892: D2BS Engine startup complete. 1.5.1869
+[11/09/18 04:25:16] D2BS 7892: EastLeech2
+[11/09/18 04:25:41] D2BS 2652: D2BS Shutdown complete.
+[11/09/18 04:25:42] D2BS 7428: D2BS Engine startup complete. 1.5.1869
+[11/09/18 04:25:42] D2BS 7428: EastLead
+[11/09/18 04:28:59] D2BS 5564: D2BS Engine startup complete. 1.5.1869
+[11/09/18 04:28:59] D2BS 5564: EastLeech2
+[11/09/18 12:15:04] D2BS 7428: D2BS Shutdown complete.
+[11/09/18 12:15:04] D2BS 5564: D2BS Shutdown complete.
+[11/09/18 12:15:04] D2BS 3484: D2BS Shutdown complete.
+[11/09/18 19:36:20] D2BS 9428: D2BS Engine startup complete. 1.5.1869
+[11/09/18 19:36:21] D2BS 9428: EastLeech2
+[11/09/18 19:36:22] D2BS 6196: D2BS Engine startup complete. 1.5.1869
+[11/09/18 19:36:22] D2BS 6196: EastLeech1
+[11/09/18 19:36:24] D2BS 5456: D2BS Engine startup complete. 1.5.1869
+[11/09/18 19:36:24] D2BS 5456: EastLeech
+[11/09/18 19:36:25] D2BS 6136: D2BS Engine startup complete. 1.5.1869
+[11/09/18 19:36:25] D2BS 6136: EastLead
+[11/09/18 20:49:29] D2BS 9428: D2BS Shutdown complete.
+[11/09/18 20:49:29] D2BS 8584: D2BS Engine startup complete. 1.5.1869
+[11/09/18 20:49:29] D2BS 8584: EastLeech2
+[11/09/18 20:49:53] D2BS 6136: D2BS Shutdown complete.
+[11/09/18 20:49:54] D2BS 9248: D2BS Engine startup complete. 1.5.1869
+[11/09/18 20:49:54] D2BS 9248: EastLead
+[11/09/18 22:23:56] D2BS 9248: Crash File: BlizzardError/2018-11-09 22.23.55/Crash.txt
+
+[11/09/18 22:23:56] D2BS 9248: D2BS Shutdown complete.
+[11/09/18 22:23:57] D2BS 944: D2BS Engine startup complete. 1.5.1869
+[11/09/18 22:23:57] D2BS 944: EastLead
+[11/10/18 02:06:31] D2BS 944: Crash File: BlizzardError/2018-11-10 02.06.31/Crash.txt
+
+[11/10/18 02:06:31] D2BS 944: D2BS Shutdown complete.
+[11/10/18 02:06:33] D2BS 8488: D2BS Engine startup complete. 1.5.1869
+[11/10/18 02:06:33] D2BS 8488: EastLead
+[11/10/18 06:38:40] D2BS 7304: D2BS Engine startup complete. 1.5.1869
+[11/10/18 06:38:40] D2BS 7304: EastLeech2
+[11/10/18 10:17:42] D2BS 10252: D2BS Engine startup complete. 1.5.1869
+[11/10/18 10:17:42] D2BS 10252: EastLeech1
+[11/10/18 10:18:03] D2BS 8488: D2BS Shutdown complete.
+[11/10/18 10:18:04] D2BS 6584: D2BS Engine startup complete. 1.5.1869
+[11/10/18 10:18:04] D2BS 6584: EastLead
+[11/10/18 10:35:09] D2BS 8720: D2BS Engine startup complete. 1.5.1869
+[11/10/18 10:35:09] D2BS 8720: EastLeech2
+[11/10/18 10:35:28] D2BS 7176: D2BS Engine startup complete. 1.5.1869
+[11/10/18 10:35:28] D2BS 7176: EastLeech1
+[11/10/18 12:16:43] D2BS 8720: D2BS Shutdown complete.
+[11/10/18 12:16:45] D2BS 8572: D2BS Engine startup complete. 1.5.1869
+[11/10/18 12:16:45] D2BS 8572: EastLeech2
+[11/10/18 12:17:07] D2BS 6584: D2BS Shutdown complete.
+[11/10/18 12:17:08] D2BS 9892: D2BS Engine startup complete. 1.5.1869
+[11/10/18 12:17:08] D2BS 9892: EastLead
+[11/10/18 14:23:44] D2BS 5404: D2BS Engine startup complete. 1.5.1869
+[11/10/18 14:23:44] D2BS 5404: EastLeech1
+[11/10/18 14:55:55] D2BS 5404: D2BS Shutdown complete.
+[11/10/18 14:55:56] D2BS 3760: D2BS Engine startup complete. 1.5.1869
+[11/10/18 14:55:56] D2BS 3760: EastLeech1
+[11/10/18 14:56:20] D2BS 9892: D2BS Shutdown complete.
+[11/10/18 14:56:21] D2BS 8664: D2BS Engine startup complete. 1.5.1869
+[11/10/18 14:56:21] D2BS 8664: EastLead
+[11/10/18 16:25:28] D2BS 8572: D2BS Shutdown complete.
+[11/10/18 16:25:29] D2BS 3760: D2BS Shutdown complete.
+[11/10/18 17:59:50] D2BS 3756: D2BS Engine startup complete. 1.5.1869
+[11/10/18 17:59:50] D2BS 3756: EastLeecher2
+[11/10/18 17:59:51] D2BS 4532: D2BS Engine startup complete. 1.5.1869
+[11/10/18 17:59:51] D2BS 4532: EastLeecher1
+[11/10/18 17:59:53] D2BS 3848: D2BS Engine startup complete. 1.5.1869
+[11/10/18 17:59:53] D2BS 3848: EastLeecher
+[11/10/18 17:59:56] D2BS 1396: D2BS Engine startup complete. 1.5.1869
+[11/10/18 18:15:34] D2BS 3848: D2BS Shutdown complete.
+[11/10/18 18:15:34] D2BS 1396: D2BS Shutdown complete.
+[11/10/18 18:15:34] D2BS 4532: D2BS Shutdown complete.
+[11/10/18 18:15:53] D2BS 688: D2BS Engine startup complete. 1.5.1869
+[11/10/18 18:15:53] D2BS 688: EastLeech2
+[11/10/18 18:15:57] D2BS 4804: D2BS Engine startup complete. 1.5.1869
+[11/10/18 18:15:57] D2BS 4804: EastLeech1
+[11/10/18 18:16:02] D2BS 2280: D2BS Engine startup complete. 1.5.1869
+[11/10/18 18:16:02] D2BS 2280: EastLeech
+[11/10/18 18:16:08] D2BS 1888: D2BS Engine startup complete. 1.5.1869
+[11/10/18 18:16:08] D2BS 1888: EastLead
+[11/10/18 19:50:44] D2BS 688: D2BS Shutdown complete.
+[11/10/18 19:50:45] D2BS 3992: D2BS Engine startup complete. 1.5.1869
+[11/10/18 19:50:45] D2BS 3992: EastLeech2
+[11/10/18 19:50:55] D2BS 1888: D2BS Shutdown complete.
+[11/10/18 19:50:56] D2BS 6904: D2BS Engine startup complete. 1.5.1869
+[11/10/18 19:50:56] D2BS 6904: EastLead
+[11/10/18 21:54:33] D2BS 1472: D2BS Engine startup complete. 1.5.1869
+[11/10/18 21:54:33] D2BS 1472: EastLeech1
+[11/10/18 21:54:33] D2BS 3196: D2BS Engine startup complete. 1.5.1869
+[11/10/18 21:54:33] D2BS 3196: EastLead
+[11/10/18 23:09:59] D2BS 2280: D2BS Shutdown complete.
+[11/10/18 23:09:59] D2BS 3008: D2BS Engine startup complete. 1.5.1869
+[11/10/18 23:09:59] D2BS 3008: EastLeech
+[11/10/18 23:10:00] D2BS 1472: D2BS Shutdown complete.
+[11/10/18 23:10:01] D2BS 6920: D2BS Engine startup complete. 1.5.1869
+[11/10/18 23:10:01] D2BS 6920: EastLeech1
+[11/10/18 23:10:23] D2BS 3196: D2BS Shutdown complete.
+[11/10/18 23:10:23] D2BS 5204: D2BS Engine startup complete. 1.5.1869
+[11/10/18 23:10:23] D2BS 5204: EastLead
+[11/11/18 02:14:32] D2BS 5260: D2BS Engine startup complete. 1.5.1869
+[11/11/18 02:14:32] D2BS 5260: EastLead
+[11/11/18 02:14:33] D2BS 2504: D2BS Engine startup complete. 1.5.1869
+[11/11/18 02:14:33] D2BS 2504: EastLeech1
+[11/11/18 02:15:04] D2BS 3008: D2BS Shutdown complete.
+[11/11/18 02:15:04] D2BS 1896: D2BS Engine startup complete. 1.5.1869
+[11/11/18 02:15:05] D2BS 1896: EastLeech
+[11/11/18 09:07:41] D2BS 5260: D2BS Shutdown complete.
+[11/11/18 09:07:41] D2BS 3992: D2BS Shutdown complete.
+[11/11/18 09:07:41] D2BS 2504: D2BS Shutdown complete.
+[11/11/18 09:07:41] D2BS 1896: D2BS Shutdown complete.
+[11/11/18 09:41:38] D2BS 7048: D2BS Engine startup complete. 1.5.1869
+[11/11/18 09:43:01] D2BS 7048: D2BS Shutdown complete.
+[11/11/18 10:31:16] D2BS 6192: EXCEPTION!
+*** 0xc0000005 at 0x004f59a0 (Unknown in Unknown line 0)
+D2BS loaded at: 0x10000000
+Registers:
+	EIP: 0x004f59a0, ESP: 0x02f9ff58
+	CS: 0x0023, DS: 0x002b, ES: 0x002b, SS: 0x002b, FS: 0x0053, GS: 0x002b
+	EAX: 0x03200000, EBX: 0x7574abe0, ECX: 0x00000000, EDX: 0x00000000, ESI: 0x10003c10, EDI: 0x757755a0, EBP: 0x02f9ff6c, FLG: 0x00010297
+Stack Trace:
+	InitHooks+0x00009460, File: (null) line 7790568
+	D2Thread+0x00003c10, File: (null) line 7790568
+	BaseThreadInitThunk+0x751d7be0
+	RtlInitializeExceptionChain+0x77a0ad00
+	RtlInitializeExceptionChain+0x77a0ad00
+
+End of stack trace.
+D2Client.DLL loaded at: 0x00000000.
+D2Common.DLL loaded at: 0x6fd50000.
+D2Gfx.DLL loaded at: 0x6fa80000.
+D2Lang.DLL loaded at: 0x003d0000.
+D2Win.DLL loaded at: 0x6f8e0000.
+D2Net.DLL loaded at: 0x00000000.
+D2Game.DLL loaded at: 0x00000000.
+D2Launch.DLL loaded at: 0x00000000.
+Fog.DLL loaded at: 0x6ff50000.
+BNClient.DLL loaded at: 0x00000000.
+Storm.DLL loaded at: 0x6fbf0000.
+D2Cmp.DLL loaded at: 0x6fe10000.
+D2Multi.DLL loaded at: 0x00000000.
+[11/11/18 10:35:03] D2BS 6308: EXCEPTION!
+*** 0xc0000005 at 0x004f59a0 (Unknown in Unknown line 0)
+D2BS loaded at: 0x10000000
+Registers:
+	EIP: 0x004f59a0, ESP: 0x02c1ff58
+	CS: 0x0023, DS: 0x002b, ES: 0x002b, SS: 0x002b, FS: 0x0053, GS: 0x002b
+	EAX: 0x03200000, EBX: 0x7574abe0, ECX: 0x00000000, EDX: 0x00000000, ESI: 0x10003c10, EDI: 0x757755a0, EBP: 0x02c1ff6c, FLG: 0x00010297
+Stack Trace:
+	InitHooks+0x00009460, File: (null) line 8110024
+	D2Thread+0x00003c10, File: (null) line 8110024
+	BaseThreadInitThunk+0x751d7be0
+	RtlInitializeExceptionChain+0x77a0ad00
+	RtlInitializeExceptionChain+0x77a0ad00
+
+End of stack trace.
+D2Client.DLL loaded at: 0x00000000.
+D2Common.DLL loaded at: 0x6fd50000.
+D2Gfx.DLL loaded at: 0x6fa80000.
+D2Lang.DLL loaded at: 0x003e0000.
+D2Win.DLL loaded at: 0x6f8e0000.
+D2Net.DLL loaded at: 0x00000000.
+D2Game.DLL loaded at: 0x00000000.
+D2Launch.DLL loaded at: 0x00000000.
+Fog.DLL loaded at: 0x6ff50000.
+BNClient.DLL loaded at: 0x00000000.
+Storm.DLL loaded at: 0x6fbf0000.
+D2Cmp.DLL loaded at: 0x6fe10000.
+D2Multi.DLL loaded at: 0x00000000.
+[11/11/18 10:36:13] D2BS 5460: EXCEPTION!
+*** 0xc0000005 at 0x004f59a0 (Unknown in Unknown line 0)
+D2BS loaded at: 0x10000000
+Registers:
+	EIP: 0x004f59a0, ESP: 0x02e0ff58
+	CS: 0x0023, DS: 0x002b, ES: 0x002b, SS: 0x002b, FS: 0x0053, GS: 0x002b
+	EAX: 0x03200000, EBX: 0x7574abe0, ECX: 0x00000000, EDX: 0x00000000, ESI: 0x10003c10, EDI: 0x757755a0, EBP: 0x02e0ff6c, FLG: 0x00010297
+Stack Trace:
+	InitHooks+0x00009460, File: (null) line 8372168
+	D2Thread+0x00003c10, File: (null) line 8372168
+	BaseThreadInitThunk+0x751d7be0
+	RtlInitializeExceptionChain+0x77a0ad00
+	RtlInitializeExceptionChain+0x77a0ad00
+
+End of stack trace.
+D2Client.DLL loaded at: 0x00000000.
+D2Common.DLL loaded at: 0x6fd50000.
+D2Gfx.DLL loaded at: 0x6fa80000.
+D2Lang.DLL loaded at: 0x003e0000.
+D2Win.DLL loaded at: 0x6f8e0000.
+D2Net.DLL loaded at: 0x00000000.
+D2Game.DLL loaded at: 0x00000000.
+D2Launch.DLL loaded at: 0x00000000.
+Fog.DLL loaded at: 0x6ff50000.
+BNClient.DLL loaded at: 0x00000000.
+Storm.DLL loaded at: 0x6fbf0000.
+D2Cmp.DLL loaded at: 0x6fe10000.
+D2Multi.DLL loaded at: 0x00000000.
+[11/11/18 10:36:44] D2BS 180: EXCEPTION!
+*** 0xc0000005 at 0x004f59a0 (Unknown in Unknown line 0)
+D2BS loaded at: 0x10000000
+Registers:
+	EIP: 0x004f59a0, ESP: 0x02c4ff58
+	CS: 0x0023, DS: 0x002b, ES: 0x002b, SS: 0x002b, FS: 0x0053, GS: 0x002b
+	EAX: 0x03200000, EBX: 0x7574abe0, ECX: 0x00000000, EDX: 0x00000000, ESI: 0x10003c10, EDI: 0x757755a0, EBP: 0x02c4ff6c, FLG: 0x00010297
+Stack Trace:
+	InitHooks+0x00009460, File: (null) line 8306632
+	D2Thread+0x00003c10, File: (null) line 8306632
+	BaseThreadInitThunk+0x751d7be0
+	RtlInitializeExceptionChain+0x77a0ad00
+	RtlInitializeExceptionChain+0x77a0ad00
+
+End of stack trace.
+D2Client.DLL loaded at: 0x00000000.
+D2Common.DLL loaded at: 0x6fd50000.
+D2Gfx.DLL loaded at: 0x6fa80000.
+D2Lang.DLL loaded at: 0x003e0000.
+D2Win.DLL loaded at: 0x6f8e0000.
+D2Net.DLL loaded at: 0x00000000.
+D2Game.DLL loaded at: 0x00000000.
+D2Launch.DLL loaded at: 0x00000000.
+Fog.DLL loaded at: 0x6ff50000.
+BNClient.DLL loaded at: 0x00000000.
+Storm.DLL loaded at: 0x6fbf0000.
+D2Cmp.DLL loaded at: 0x6fe10000.
+D2Multi.DLL loaded at: 0x00000000.
+[11/11/18 10:36:53] D2BS 3268: EXCEPTION!
+*** 0xc0000005 at 0x004f59a0 (Unknown in Unknown line 0)
+D2BS loaded at: 0x10000000
+Registers:
+	EIP: 0x004f59a0, ESP: 0x02ebff58
+	CS: 0x0023, DS: 0x002b, ES: 0x002b, SS: 0x002b, FS: 0x0053, GS: 0x002b
+	EAX: 0x03200000, EBX: 0x7574abe0, ECX: 0x00000000, EDX: 0x00000000, ESI: 0x10003c10, EDI: 0x757755a0, EBP: 0x02ebff6c, FLG: 0x00010297
+Stack Trace:
+	InitHooks+0x00009460, File: (null) line 7520200
+	D2Thread+0x00003c10, File: (null) line 7520200
+	BaseThreadInitThunk+0x751d7be0
+	RtlInitializeExceptionChain+0x77a0ad00
+	RtlInitializeExceptionChain+0x77a0ad00
+
+End of stack trace.
+D2Client.DLL loaded at: 0x00000000.
+D2Common.DLL loaded at: 0x6fd50000.
+D2Gfx.DLL loaded at: 0x6fa80000.
+D2Lang.DLL loaded at: 0x003d0000.
+D2Win.DLL loaded at: 0x6f8e0000.
+D2Net.DLL loaded at: 0x00000000.
+D2Game.DLL loaded at: 0x00000000.
+D2Launch.DLL loaded at: 0x00000000.
+Fog.DLL loaded at: 0x6ff50000.
+BNClient.DLL loaded at: 0x00000000.
+Storm.DLL loaded at: 0x6fbf0000.
+D2Cmp.DLL loaded at: 0x6fe10000.
+D2Multi.DLL loaded at: 0x00000000.
+[11/11/18 10:37:05] D2BS 1844: EXCEPTION!
+*** 0xc0000005 at 0x004f59a0 (Unknown in Unknown line 0)
+D2BS loaded at: 0x10000000
+Registers:
+	EIP: 0x004f59a0, ESP: 0x0296ff58
+	CS: 0x0023, DS: 0x002b, ES: 0x002b, SS: 0x002b, FS: 0x0053, GS: 0x002b
+	EAX: 0x03200000, EBX: 0x7574abe0, ECX: 0x00000000, EDX: 0x00000000, ESI: 0x10003c10, EDI: 0x757755a0, EBP: 0x0296ff6c, FLG: 0x00010297
+Stack Trace:
+	InitHooks+0x00009460, File: (null) line 5947864
+	D2Thread+0x00003c10, File: (null) line 5947864
+	BaseThreadInitThunk+0x751d7be0
+	RtlInitializeExceptionChain+0x77a0ad00
+	RtlInitializeExceptionChain+0x77a0ad00
+
+End of stack trace.
+D2Client.DLL loaded at: 0x00000000.
+D2Common.DLL loaded at: 0x6fd50000.
+D2Gfx.DLL loaded at: 0x6fa80000.
+D2Lang.DLL loaded at: 0x00420000.
+D2Win.DLL loaded at: 0x6f8e0000.
+D2Net.DLL loaded at: 0x00000000.
+D2Game.DLL loaded at: 0x00000000.
+D2Launch.DLL loaded at: 0x00000000.
+Fog.DLL loaded at: 0x6ff50000.
+BNClient.DLL loaded at: 0x00000000.
+Storm.DLL loaded at: 0x6fbf0000.
+D2Cmp.DLL loaded at: 0x6fe10000.
+D2Multi.DLL loaded at: 0x00000000.
+[11/11/18 10:48:01] D2BS 6800: D2BS Engine startup complete. 1.5.1869
+[11/11/18 10:52:02] D2BS 6800: D2BS Shutdown complete.
+[11/11/18 11:25:24] D2BS 5980: D2BS Engine startup complete. 1.5.1869
+[11/11/18 11:39:56] D2BS 6672: D2BS Engine startup complete. 1.5.1869
+[11/11/18 11:50:33] D2BS 6672: D2BS Shutdown complete.
+[11/11/18 11:50:33] D2BS 5980: D2BS Shutdown complete.
+[11/11/18 11:58:53] D2BS 6808: D2BS Engine startup complete. 1.5.1869
+[11/11/18 11:59:50] D2BS 6612: D2BS Engine startup complete. 1.5.1869
+[11/11/18 11:59:50] D2BS 6612: WestLeecher
+[11/11/18 12:00:25] D2BS 1980: D2BS Engine startup complete. 1.5.1869
+[11/11/18 12:00:25] D2BS 1980: WestLeecher1
+[11/11/18 12:00:48] D2BS 5756: D2BS Engine startup complete. 1.5.1869
+[11/11/18 12:00:48] D2BS 5756: WestLeecher2
+[11/11/18 12:16:25] D2BS 5756: D2BS Shutdown complete.
+[11/11/18 12:16:26] D2BS 3488: D2BS Engine startup complete. 1.5.1869
+[11/11/18 12:16:26] D2BS 3488: WestLeecher2
+[11/11/18 12:17:48] D2BS 3488: D2BS Shutdown complete.
+[11/11/18 12:18:14] D2BS 3468: D2BS Engine startup complete. 1.5.1869
+[11/11/18 12:18:14] D2BS 3468: WestLeecher2

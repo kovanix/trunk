@@ -1,5 +1,0 @@
-{"itemColor":-1,"image":"hp1","title":"Minor Healing Potion","description":"\\xffc0Minor Healing Potion (1)\\n\\xffc0Points: 30$4061080039","header":"mule-kovax / kovax-pgm","sockets":[]}
-{"itemColor":-1,"image":"hp1","title":"Minor Healing Potion","description":"\\xffc0Minor Healing Potion (1)\\n\\xffc0Points: 30$3909588211","header":"mule-kovax / kovax-pgm","sockets":[]}
-{"itemColor":-1,"image":"hp1","title":"Minor Healing Potion","description":"\\xffc0Minor Healing Potion (1)\\n\\xffc0Points: 30$3833834105","header":"mule-kovax / kovax-pgm","sockets":[]}
-{"itemColor":-1,"image":"hp1","title":"Minor Healing Potion","description":"\\xffc0Minor Healing Potion (1)\\n\\xffc0Points: 30$3795957052","header":"mule-kovax / kovax-pgm","sockets":[]}
-{"itemColor":-1,"image":"sst","title":"Short Staff (equipped)","description":"\\xffc0Short Staff (1)\\n\\xffc0Two-Hand Damage: 1 to 5\\n\\xffc0Durability: 20 of 20\\n\\xffc0Staff Class - Fast Attack Speed\\n\\xffc3+1 to Fire Bolt (Sorceress Only)\\n\\xffc3+50% Damage to Undead$1897970334","header":"mule-kovax / kovax-pgm","sockets":[]}

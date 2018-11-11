@@ -1,0 +1,5 @@
+11/11/2018 13:26
+System.Exception: D2BS Folder is missing file: d2bs.ini
+   à D2Bot.Program.LoadProfile(String file)
+   à D2Bot.Program.Main()
+
